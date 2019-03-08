@@ -4098,6 +4098,8 @@ false
 <tr><td><code>command.industrialwires.iw</code></td><td class='error' title='Invalid usage language key!'>/iw &lt;getmarx|resetmarx|setmarx &lt;value&gt;&gt;</td></tr>
 <tr><td><code>command.jeresources.profile</code></td><td class='error' title='Invalid usage language key!'>profile [chunks|stop] [all]</td></tr>
 <tr><td><code>command.journeymap.jtp</code></td><td class='error' title='Invalid usage language key!'>/jtp &lt;x y z dim&gt;</td></tr>
+<tr><td><code>command.justenoughdimensions.jed</code></td><td>'/jed &lt;debug | defaultgamemode | difficulty | dimbuilder | gamerule | list-loaded-dimensions | list-registered-dimensions | load-dimension | register | reload | setworldspawn | time | unload-empty-dimensions ['unload-chunks' to try to unload chunks] | unregister | unregister-remove | weather | worldborder&gt; [dimension] ...'</td></tr>
+<tr><td><code>command.justenoughdimensions.tpj</code></td><td>'/tpj &lt;to-entity&gt;'<br>'/tpj &lt;entity&gt; &lt;to-entity&gt;'<br>'/tpj &lt;dimensionId&gt; [x y z] [yaw] [pitch]'<br>'/tpj &lt;entity&gt; &lt;dimensionId&gt; [x y z] [yaw] [pitch]'</td></tr>
 <tr><td><code>command.kill</code></td><td>/kill [player|entity]</td></tr>
 <tr><td><code>command.locate</code></td><td>/locate &lt;feature&gt;</td></tr>
 <tr><td><code>command.me</code></td><td>/me &lt;action ...&gt;</td></tr>
@@ -4158,6 +4160,7 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.projecte.projecte.showbag</code></td><td>/projecte showBag &lt;color&gt; &lt;player selector&gt;</td></tr>
 <tr><td><code>command.publish</code></td><td>/publish</td></tr>
 <tr><td><code>command.quark.quarkconfig</code></td><td class='error' title='Invalid usage language key!'>&lt;module&gt; &lt;category&gt; &lt;key&gt; &lt;value&gt; [save?] [player]</td></tr>
+<tr><td><code>command.randomportals.rporeload</code></td><td>/rporeload</td></tr>
 <tr><td><code>command.randomthings.rt</code></td><td class='error' title='Invalid usage language key!'>/rt</td></tr>
 <tr><td><code>command.randomtweaks.deletegamerule</code></td><td class='error' title='Invalid usage language key!'>/deletegamerule &lt;gamerule&gt;</td></tr>
 <tr><td><code>command.randomtweaks.give</code></td><td>/give &lt;player&gt; &lt;item&gt; [amount] [data] [dataTag]</td></tr>
@@ -4166,6 +4169,42 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.reborncore.rc_dumpmods</code></td><td>rc_dumpmods</td></tr>
 <tr><td><code>command.reborncore.rc_listrecipes</code></td><td>rc_listRecipes</td></tr>
 <tr><td><code>command.rebornstorage.rsmblock</code></td><td class='error' title='Invalid usage language key!'>rsmblock &lt;size&gt;</td></tr>
+<tr><td><code>command.reccomplex.#&</code></td><td class='error' title='Invalid usage language key!'>#&amp; §r §e&lt;1&gt;§r...</td></tr>
+<tr><td><code>command.reccomplex.#as</code></td><td class='error' title='Invalid usage language key!'>#as §r §e&lt;entity&gt;§r §e&lt;command&gt;§r §e[args...]§r...</td></tr>
+<tr><td><code>command.reccomplex.#biome</code></td><td class='error' title='Invalid usage language key!'>#biome §r&lt;§ehelp§r|§esearch§r|§etypes§r|§elist§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#cancel</code></td><td class='error' title='Invalid usage language key!'>#cancel §r</td></tr>
+<tr><td><code>command.reccomplex.#confirm</code></td><td class='error' title='Invalid usage language key!'>#confirm §r</td></tr>
+<tr><td><code>command.reccomplex.#copy</code></td><td class='error' title='Invalid usage language key!'>#copy §r</td></tr>
+<tr><td><code>command.reccomplex.#decorate</code></td><td class='error' title='Invalid usage language key!'>#decorate §r §e[z1]§r §e[x1]§r §e[z2]§r §e[x2]§r --one --exp §e[null]§r</td></tr>
+<tr><td><code>command.reccomplex.#delete</code></td><td class='error' title='Invalid usage language key!'>#delete §r §e&lt;file type&gt;§r §e[resource expression]§r... --§bd§rirectory §e&lt;directory&gt;§r</td></tr>
+<tr><td><code>command.reccomplex.#dimension</code></td><td class='error' title='Invalid usage language key!'>#dimension §r&lt;§ehelp§r|§etypes§r|§elist§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#edit</code></td><td class='error' title='Invalid usage language key!'>#edit §r §e[structure]§r --from §e[structure]§r --id §e[export id]§r --§bd§rirectory §e[directory]§r</td></tr>
+<tr><td><code>command.reccomplex.#eval</code></td><td class='error' title='Invalid usage language key!'>#eval §r §e[dependency expression]§r</td></tr>
+<tr><td><code>command.reccomplex.#export</code></td><td class='error' title='Invalid usage language key!'>#export §r §e[copy structure]§r --id §e[export id]§r --§bd§rirectory §e[directory]§r</td></tr>
+<tr><td><code>command.reccomplex.#fill</code></td><td class='error' title='Invalid usage language key!'>#fill §r §e[block]§r §e[source expression]§r... --§bm§retadata §e[metadata]§r --§bs§rhape §e[shape]§r --§bf§rlood §e[direction expression]§r</td></tr>
+<tr><td><code>command.reccomplex.#gen</code></td><td class='error' title='Invalid usage language key!'>#gen §r §e&lt;structure&gt;§r --§bm§rirror --§bs§relect --seed §e[seed]§r --§br§rotation §e[rotation]§r --sugges§bt§r --gen §e[generation type id]§r -x §e[x]§r -z §e[z]§r --§bd§rimension §e[dimension]§r</td></tr>
+<tr><td><code>command.reccomplex.#import</code></td><td class='error' title='Invalid usage language key!'>#import §r §e[structure]§r --§bm§rirror --§bs§relect --§br§rotation §e[rotation]§r -x §e[x]§r -y §e[y]§r -z §e[z]§r --§bd§rimension §e[dimension]§r</td></tr>
+<tr><td><code>command.reccomplex.#list</code></td><td class='error' title='Invalid usage language key!'>#list §r §e[page]§r</td></tr>
+<tr><td><code>command.reccomplex.#lookup</code></td><td class='error' title='Invalid usage language key!'>#lookup §r §e[structure]§r</td></tr>
+<tr><td><code>command.reccomplex.#map</code></td><td class='error' title='Invalid usage language key!'>#map §r §e&lt;resource expression|structure&gt;§r §e[virtual command]§r §e[args...]§r... --§bn§rosave --§bd§rirectory §e[directory]§r</td></tr>
+<tr><td><code>command.reccomplex.#move</code></td><td class='error' title='Invalid usage language key!'>#move §r --§bm§rirror --§br§rotation §e[rotation]§r --no§bs§relect --dupli§bc§rate --§bt§rimes §e[1]§r -x §e[x]§r -y §e[y]§r -z §e[z]§r</td></tr>
+<tr><td><code>command.reccomplex.#natural</code></td><td class='error' title='Invalid usage language key!'>#natural §r&lt;§ehelp§r|§efloor§r|§esmart§r|§espace§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#paste</code></td><td class='error' title='Invalid usage language key!'>#paste §r --§bm§rirror --§bs§relect --seed §e[null]§r --§br§rotation §e[rotation]§r -x §e[x]§r -y §e[y]§r -z §e[z]§r --§bg§renerate</td></tr>
+<tr><td><code>command.reccomplex.#preview</code></td><td class='error' title='Invalid usage language key!'>#preview §r §e&lt;type&gt;§r</td></tr>
+<tr><td><code>command.reccomplex.#property</code></td><td class='error' title='Invalid usage language key!'>#property §r §e&lt;key&gt;§r §e&lt;value&gt;§r --§bs§rhape §e[shape]§r --exp §e[positioned block expression]§r</td></tr>
+<tr><td><code>command.reccomplex.#reload</code></td><td class='error' title='Invalid usage language key!'>#reload §r §e[level]§r</td></tr>
+<tr><td><code>command.reccomplex.#reopen</code></td><td class='error' title='Invalid usage language key!'>#reopen §r</td></tr>
+<tr><td><code>command.reccomplex.#retro</code></td><td class='error' title='Invalid usage language key!'>#retro §r --exp §e[resource expression: only generate these structures]§r --§bd§rimension §e[dimension]§r</td></tr>
+<tr><td><code>command.reccomplex.#sanity</code></td><td class='error' title='Invalid usage language key!'>#sanity §r --silent --short</td></tr>
+<tr><td><code>command.reccomplex.#schematic</code></td><td class='error' title='Invalid usage language key!'>#schematic §r&lt;§ehelp§r|§eimport§r|§econvert§r|§eexport§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#search</code></td><td class='error' title='Invalid usage language key!'>#search §r §e[terms]§r... --§ba§rll --§bc§rontaining §e[block expression]§r --§bb§riome §e[biome id]§r --author §e[author]§r --maze §e[maze id]§r --list §e[structure list id]§r --§bd§rimension §e[dimension id]§r</td></tr>
+<tr><td><code>command.reccomplex.#selection</code></td><td class='error' title='Invalid usage language key!'>#selection §r&lt;§ehelp§r|§eexpand§r|§eset§r|§eshrink§r|§eget§r|§ewand§r|§eclear§r|§ecrop§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#setbiome</code></td><td class='error' title='Invalid usage language key!'>#setbiome §r §e[biome]§r</td></tr>
+<tr><td><code>command.reccomplex.#sight</code></td><td class='error' title='Invalid usage language key!'>#sight §r&lt;§eremember§r|§ehelp§r|§eforget§r|§echeck§r|§einfo§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#vanilla</code></td><td class='error' title='Invalid usage language key!'>#vanilla §r&lt;§ehelp§r|§egen§r|§echeck§r&gt;</td></tr>
+<tr><td><code>command.reccomplex.#visual</code></td><td class='error' title='Invalid usage language key!'>#visual §r §e&lt;type&gt;§r §e&lt;true|false&gt;§r</td></tr>
+<tr><td><code>command.reccomplex.#whatisthis</code></td><td class='error' title='Invalid usage language key!'>#whatisthis §r §e[x]§r §e[y]§r §e[z]§r</td></tr>
+<tr><td><code>command.reccomplex.#write</code></td><td class='error' title='Invalid usage language key!'>#write §r §e&lt;file type&gt;§r §e[resource expression]§r... --§bd§rirectory §e[directory]§r</td></tr>
 <tr><td><code>command.recipe</code></td><td>/recipe &lt;give|take&gt; [player] &lt;name|*&gt;</td></tr>
 <tr><td><code>command.refinedstorage.createdisk</code></td><td>/createdisk &lt;player&gt; &lt;item&gt; &lt;metadata&gt; &lt;id&gt;</td></tr>
 <tr><td><code>command.replaceitem</code></td><td>/replaceitem &lt;entity|block&gt; ...</td></tr>

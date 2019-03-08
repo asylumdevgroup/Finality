@@ -12,6 +12,30 @@
                 "worldprovider": "WorldProviderHellJED"
             }
         },
+		{
+            "dim": 8,
+            "override": false,
+			"dimensiontype":
+            {
+                "id": 8,
+                "name": "Spawn Platform Dimension",
+                "suffix": "_dim8",
+                "keeploaded": false,
+                "worldprovider": "WorldProviderSurfaceJED"
+            },
+			"worldinfo_onetime": {
+                "generatorName": "flat",
+                "generatorOptions": "3;minecraft:air;127;",
+                "DayTime": 6000,
+                "GameRules": {
+                    "doMobSpawning": "false"
+                }
+            },
+            "jed": {
+                "CanSpawnHostiles": false,
+                "CanSpawnPeacefulMobs": false
+            }
+        },
         {
             "dim": 1,
 			"worldinfo": {

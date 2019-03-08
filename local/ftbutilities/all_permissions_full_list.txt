@@ -1,4 +1,4 @@
-36121 nodes in total
+36252 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -5156,7 +5156,6 @@ ftbutilities.claims.block.edit.jaopca.block_blockdimensionalshard: OP
 ftbutilities.claims.block.edit.jaopca.block_blockenderbiotite: OP
 ftbutilities.claims.block.edit.jaopca.block_blockgalena: OP
 ftbutilities.claims.block.edit.jaopca.block_blockpyrite: OP
-ftbutilities.claims.block.edit.jaopca.block_blockquartzblack: OP
 ftbutilities.claims.block.edit.jaopca.block_blocksphalerite: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclusteradamantine: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclusterancite: OP
@@ -7801,6 +7800,41 @@ ftbutilities.claims.block.edit.quark.vertical_planks: OP
 ftbutilities.claims.block.edit.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.edit.quark.world_stone_bricks: OP
 ftbutilities.claims.block.edit.quark.world_stone_pavement: OP
+ftbutilities.claims.block.edit.randomportals.black_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.black_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.blue_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.blue_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.brown_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.brown_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.cyan_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.cyan_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.gray_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.gray_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.green_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.green_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.light_blue_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.light_blue_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.lime_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.lime_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.magenta_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.magenta_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.orange_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.orange_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.pink_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.pink_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.purple_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.red_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.red_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.silver_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.silver_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.upside_down_end_portal: OP
+ftbutilities.claims.block.edit.randomportals.upside_down_end_portal_frame: OP
+ftbutilities.claims.block.edit.randomportals.vertical_end_portal: OP
+ftbutilities.claims.block.edit.randomportals.vertical_end_portal_frame: OP
+ftbutilities.claims.block.edit.randomportals.white_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.white_vertical_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.yellow_lateral_nether_portal: OP
+ftbutilities.claims.block.edit.randomportals.yellow_vertical_nether_portal: OP
 ftbutilities.claims.block.edit.randomthings.advanceditemcollector: OP
 ftbutilities.claims.block.edit.randomthings.advancedredstoneinterface: OP
 ftbutilities.claims.block.edit.randomthings.advancedredstonerepeater: OP
@@ -7910,6 +7944,12 @@ ftbutilities.claims.block.edit.randomthings.triggerglass: OP
 ftbutilities.claims.block.edit.randomthings.voxelprojector: OP
 ftbutilities.claims.block.edit.rangedpumps.pump: OP
 ftbutilities.claims.block.edit.rebornstorage.multicrafter: OP
+ftbutilities.claims.block.edit.reccomplex.generic_solid: OP
+ftbutilities.claims.block.edit.reccomplex.generic_space: OP
+ftbutilities.claims.block.edit.reccomplex.maze_generator: OP
+ftbutilities.claims.block.edit.reccomplex.spawn_script: OP
+ftbutilities.claims.block.edit.reccomplex.structure_generator: OP
+ftbutilities.claims.block.edit.reccomplex.weighted_command_block: OP
 ftbutilities.claims.block.edit.redstonearsenal.storage: OP
 ftbutilities.claims.block.edit.refined_avaritia.extreme_pattern_encoder: OP
 ftbutilities.claims.block.edit.refinedstorage.cable: OP
@@ -14112,7 +14152,6 @@ ftbutilities.claims.block.interact.jaopca.block_blockdimensionalshard: OP
 ftbutilities.claims.block.interact.jaopca.block_blockenderbiotite: OP
 ftbutilities.claims.block.interact.jaopca.block_blockgalena: OP
 ftbutilities.claims.block.interact.jaopca.block_blockpyrite: OP
-ftbutilities.claims.block.interact.jaopca.block_blockquartzblack: OP
 ftbutilities.claims.block.interact.jaopca.block_blocksphalerite: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclusteradamantine: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclusterancite: OP
@@ -16757,6 +16796,41 @@ ftbutilities.claims.block.interact.quark.vertical_planks: OP
 ftbutilities.claims.block.interact.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.interact.quark.world_stone_bricks: OP
 ftbutilities.claims.block.interact.quark.world_stone_pavement: OP
+ftbutilities.claims.block.interact.randomportals.black_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.black_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.blue_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.blue_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.brown_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.brown_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.cyan_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.cyan_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.gray_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.gray_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.green_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.green_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.light_blue_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.light_blue_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.lime_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.lime_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.magenta_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.magenta_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.orange_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.orange_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.pink_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.pink_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.purple_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.red_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.red_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.silver_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.silver_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.upside_down_end_portal: OP
+ftbutilities.claims.block.interact.randomportals.upside_down_end_portal_frame: OP
+ftbutilities.claims.block.interact.randomportals.vertical_end_portal: OP
+ftbutilities.claims.block.interact.randomportals.vertical_end_portal_frame: OP
+ftbutilities.claims.block.interact.randomportals.white_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.white_vertical_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.yellow_lateral_nether_portal: OP
+ftbutilities.claims.block.interact.randomportals.yellow_vertical_nether_portal: OP
 ftbutilities.claims.block.interact.randomthings.advanceditemcollector: OP
 ftbutilities.claims.block.interact.randomthings.advancedredstoneinterface: OP
 ftbutilities.claims.block.interact.randomthings.advancedredstonerepeater: OP
@@ -16866,6 +16940,12 @@ ftbutilities.claims.block.interact.randomthings.triggerglass: OP
 ftbutilities.claims.block.interact.randomthings.voxelprojector: OP
 ftbutilities.claims.block.interact.rangedpumps.pump: OP
 ftbutilities.claims.block.interact.rebornstorage.multicrafter: OP
+ftbutilities.claims.block.interact.reccomplex.generic_solid: OP
+ftbutilities.claims.block.interact.reccomplex.generic_space: OP
+ftbutilities.claims.block.interact.reccomplex.maze_generator: OP
+ftbutilities.claims.block.interact.reccomplex.spawn_script: OP
+ftbutilities.claims.block.interact.reccomplex.structure_generator: OP
+ftbutilities.claims.block.interact.reccomplex.weighted_command_block: OP
 ftbutilities.claims.block.interact.redstonearsenal.storage: OP
 ftbutilities.claims.block.interact.refined_avaritia.extreme_pattern_encoder: OP
 ftbutilities.claims.block.interact.refinedstorage.cable: OP
@@ -27402,7 +27482,6 @@ ftbutilities.claims.item.jaopca.block_blockdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.block_blockenderbiotite: ALL
 ftbutilities.claims.item.jaopca.block_blockgalena: ALL
 ftbutilities.claims.item.jaopca.block_blockpyrite: ALL
-ftbutilities.claims.item.jaopca.block_blockquartzblack: ALL
 ftbutilities.claims.item.jaopca.block_blocksphalerite: ALL
 ftbutilities.claims.item.jaopca.block_crystalclusteradamantine: ALL
 ftbutilities.claims.item.jaopca.block_crystalclusterancite: ALL
@@ -29046,6 +29125,8 @@ ftbutilities.claims.item.minecraft.enchanted_book: ALL
 ftbutilities.claims.item.minecraft.enchanting_table: ALL
 ftbutilities.claims.item.minecraft.end_bricks: ALL
 ftbutilities.claims.item.minecraft.end_crystal: OP
+ftbutilities.claims.item.minecraft.end_gateway: ALL
+ftbutilities.claims.item.minecraft.end_portal: ALL
 ftbutilities.claims.item.minecraft.end_portal_frame: ALL
 ftbutilities.claims.item.minecraft.end_rod: ALL
 ftbutilities.claims.item.minecraft.end_stone: ALL
@@ -29193,6 +29274,7 @@ ftbutilities.claims.item.minecraft.piston: ALL
 ftbutilities.claims.item.minecraft.planks: ALL
 ftbutilities.claims.item.minecraft.poisonous_potato: ALL
 ftbutilities.claims.item.minecraft.porkchop: ALL
+ftbutilities.claims.item.minecraft.portal: ALL
 ftbutilities.claims.item.minecraft.potato: ALL
 ftbutilities.claims.item.minecraft.potion: ALL
 ftbutilities.claims.item.minecraft.prismarine: ALL
@@ -33327,6 +33409,41 @@ ftbutilities.claims.item.quark.vertical_stained_planks: ALL
 ftbutilities.claims.item.quark.witch_hat: ALL
 ftbutilities.claims.item.quark.world_stone_bricks: ALL
 ftbutilities.claims.item.quark.world_stone_pavement: ALL
+ftbutilities.claims.item.randomportals.black_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.black_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.blue_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.blue_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.brown_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.brown_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.cyan_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.cyan_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.gray_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.gray_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.green_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.green_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.light_blue_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.light_blue_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.lime_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.lime_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.magenta_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.magenta_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.orange_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.orange_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.pink_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.pink_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.purple_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.red_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.red_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.silver_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.silver_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.upside_down_end_portal: ALL
+ftbutilities.claims.item.randomportals.upside_down_end_portal_frame: ALL
+ftbutilities.claims.item.randomportals.vertical_end_portal: ALL
+ftbutilities.claims.item.randomportals.vertical_end_portal_frame: ALL
+ftbutilities.claims.item.randomportals.white_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.white_vertical_nether_portal: ALL
+ftbutilities.claims.item.randomportals.yellow_lateral_nether_portal: ALL
+ftbutilities.claims.item.randomportals.yellow_vertical_nether_portal: ALL
 ftbutilities.claims.item.randomthings.advanceditemcollector: ALL
 ftbutilities.claims.item.randomthings.advancedredstoneinterface: ALL
 ftbutilities.claims.item.randomthings.advancedredstonerepeater: ALL
@@ -33488,6 +33605,20 @@ ftbutilities.claims.item.rebornstorage.multicrafter: ALL
 ftbutilities.claims.item.rebornstorage.storagecell: ALL
 ftbutilities.claims.item.rebornstorage.storagecellfluid: ALL
 ftbutilities.claims.item.rebornstorage.storagepart: ALL
+ftbutilities.claims.item.reccomplex.artifact_generation_tag: ALL
+ftbutilities.claims.item.reccomplex.block_selector: ALL
+ftbutilities.claims.item.reccomplex.block_selector_floating: ALL
+ftbutilities.claims.item.reccomplex.book_generation_tag: ALL
+ftbutilities.claims.item.reccomplex.generic_solid: ALL
+ftbutilities.claims.item.reccomplex.generic_space: ALL
+ftbutilities.claims.item.reccomplex.inspector: ALL
+ftbutilities.claims.item.reccomplex.inventory_generation_component_tag: ALL
+ftbutilities.claims.item.reccomplex.inventory_generation_single_tag: ALL
+ftbutilities.claims.item.reccomplex.inventory_generation_tag: ALL
+ftbutilities.claims.item.reccomplex.maze_generator: ALL
+ftbutilities.claims.item.reccomplex.spawn_script: ALL
+ftbutilities.claims.item.reccomplex.structure_generator: ALL
+ftbutilities.claims.item.reccomplex.weighted_command_block: ALL
 ftbutilities.claims.item.redstonearsenal.armor.boots_flux: ALL
 ftbutilities.claims.item.redstonearsenal.armor.helmet_flux: ALL
 ftbutilities.claims.item.redstonearsenal.armor.legs_flux: ALL
@@ -36367,6 +36498,8 @@ command.incontrol.ctrlshowmobs
 command.industrialwires.iw
 command.jeresources.profile
 command.journeymap.jtp
+command.justenoughdimensions.jed
+command.justenoughdimensions.tpj
 command.kill
 command.locate
 command.me
@@ -36419,6 +36552,7 @@ command.projecte.projecte.setemc
 command.projecte.projecte.showbag
 command.publish
 command.quark.quarkconfig
+command.randomportals.rporeload
 command.randomthings.rt
 command.randomtweaks.deletegamerule
 command.randomtweaks.give
@@ -36427,6 +36561,42 @@ command.randomtweaks.rtreload
 command.reborncore.rc_dumpmods
 command.reborncore.rc_listrecipes
 command.rebornstorage.rsmblock
+command.reccomplex.#&
+command.reccomplex.#as
+command.reccomplex.#biome
+command.reccomplex.#cancel
+command.reccomplex.#confirm
+command.reccomplex.#copy
+command.reccomplex.#decorate
+command.reccomplex.#delete
+command.reccomplex.#dimension
+command.reccomplex.#edit
+command.reccomplex.#eval
+command.reccomplex.#export
+command.reccomplex.#fill
+command.reccomplex.#gen
+command.reccomplex.#import
+command.reccomplex.#list
+command.reccomplex.#lookup
+command.reccomplex.#map
+command.reccomplex.#move
+command.reccomplex.#natural
+command.reccomplex.#paste
+command.reccomplex.#preview
+command.reccomplex.#property
+command.reccomplex.#reload
+command.reccomplex.#reopen
+command.reccomplex.#retro
+command.reccomplex.#sanity
+command.reccomplex.#schematic
+command.reccomplex.#search
+command.reccomplex.#selection
+command.reccomplex.#setbiome
+command.reccomplex.#sight
+command.reccomplex.#vanilla
+command.reccomplex.#visual
+command.reccomplex.#whatisthis
+command.reccomplex.#write
 command.recipe
 command.refinedstorage.createdisk
 command.replaceitem
