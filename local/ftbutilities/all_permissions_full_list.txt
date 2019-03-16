@@ -1,4 +1,4 @@
-36252 nodes in total
+36226 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -7944,12 +7944,6 @@ ftbutilities.claims.block.edit.randomthings.triggerglass: OP
 ftbutilities.claims.block.edit.randomthings.voxelprojector: OP
 ftbutilities.claims.block.edit.rangedpumps.pump: OP
 ftbutilities.claims.block.edit.rebornstorage.multicrafter: OP
-ftbutilities.claims.block.edit.reccomplex.generic_solid: OP
-ftbutilities.claims.block.edit.reccomplex.generic_space: OP
-ftbutilities.claims.block.edit.reccomplex.maze_generator: OP
-ftbutilities.claims.block.edit.reccomplex.spawn_script: OP
-ftbutilities.claims.block.edit.reccomplex.structure_generator: OP
-ftbutilities.claims.block.edit.reccomplex.weighted_command_block: OP
 ftbutilities.claims.block.edit.redstonearsenal.storage: OP
 ftbutilities.claims.block.edit.refined_avaritia.extreme_pattern_encoder: OP
 ftbutilities.claims.block.edit.refinedstorage.cable: OP
@@ -16940,12 +16934,6 @@ ftbutilities.claims.block.interact.randomthings.triggerglass: OP
 ftbutilities.claims.block.interact.randomthings.voxelprojector: OP
 ftbutilities.claims.block.interact.rangedpumps.pump: OP
 ftbutilities.claims.block.interact.rebornstorage.multicrafter: OP
-ftbutilities.claims.block.interact.reccomplex.generic_solid: OP
-ftbutilities.claims.block.interact.reccomplex.generic_space: OP
-ftbutilities.claims.block.interact.reccomplex.maze_generator: OP
-ftbutilities.claims.block.interact.reccomplex.spawn_script: OP
-ftbutilities.claims.block.interact.reccomplex.structure_generator: OP
-ftbutilities.claims.block.interact.reccomplex.weighted_command_block: OP
 ftbutilities.claims.block.interact.redstonearsenal.storage: OP
 ftbutilities.claims.block.interact.refined_avaritia.extreme_pattern_encoder: OP
 ftbutilities.claims.block.interact.refinedstorage.cable: OP
@@ -33605,20 +33593,6 @@ ftbutilities.claims.item.rebornstorage.multicrafter: ALL
 ftbutilities.claims.item.rebornstorage.storagecell: ALL
 ftbutilities.claims.item.rebornstorage.storagecellfluid: ALL
 ftbutilities.claims.item.rebornstorage.storagepart: ALL
-ftbutilities.claims.item.reccomplex.artifact_generation_tag: ALL
-ftbutilities.claims.item.reccomplex.block_selector: ALL
-ftbutilities.claims.item.reccomplex.block_selector_floating: ALL
-ftbutilities.claims.item.reccomplex.book_generation_tag: ALL
-ftbutilities.claims.item.reccomplex.generic_solid: ALL
-ftbutilities.claims.item.reccomplex.generic_space: ALL
-ftbutilities.claims.item.reccomplex.inspector: ALL
-ftbutilities.claims.item.reccomplex.inventory_generation_component_tag: ALL
-ftbutilities.claims.item.reccomplex.inventory_generation_single_tag: ALL
-ftbutilities.claims.item.reccomplex.inventory_generation_tag: ALL
-ftbutilities.claims.item.reccomplex.maze_generator: ALL
-ftbutilities.claims.item.reccomplex.spawn_script: ALL
-ftbutilities.claims.item.reccomplex.structure_generator: ALL
-ftbutilities.claims.item.reccomplex.weighted_command_block: ALL
 ftbutilities.claims.item.redstonearsenal.armor.boots_flux: ALL
 ftbutilities.claims.item.redstonearsenal.armor.helmet_flux: ALL
 ftbutilities.claims.item.redstonearsenal.armor.legs_flux: ALL
@@ -36561,42 +36535,6 @@ command.randomtweaks.rtreload
 command.reborncore.rc_dumpmods
 command.reborncore.rc_listrecipes
 command.rebornstorage.rsmblock
-command.reccomplex.#&
-command.reccomplex.#as
-command.reccomplex.#biome
-command.reccomplex.#cancel
-command.reccomplex.#confirm
-command.reccomplex.#copy
-command.reccomplex.#decorate
-command.reccomplex.#delete
-command.reccomplex.#dimension
-command.reccomplex.#edit
-command.reccomplex.#eval
-command.reccomplex.#export
-command.reccomplex.#fill
-command.reccomplex.#gen
-command.reccomplex.#import
-command.reccomplex.#list
-command.reccomplex.#lookup
-command.reccomplex.#map
-command.reccomplex.#move
-command.reccomplex.#natural
-command.reccomplex.#paste
-command.reccomplex.#preview
-command.reccomplex.#property
-command.reccomplex.#reload
-command.reccomplex.#reopen
-command.reccomplex.#retro
-command.reccomplex.#sanity
-command.reccomplex.#schematic
-command.reccomplex.#search
-command.reccomplex.#selection
-command.reccomplex.#setbiome
-command.reccomplex.#sight
-command.reccomplex.#vanilla
-command.reccomplex.#visual
-command.reccomplex.#whatisthis
-command.reccomplex.#write
 command.recipe
 command.refinedstorage.createdisk
 command.replaceitem
@@ -36666,6 +36604,7 @@ command.woot.woot.dump.tartarus
 command.woot.woot.flush
 command.woot.woot.give
 command.worldborder
+command.worldprimer.worldprimer
 command.xnet.xnetcheck
 command.xnet.xnetdump
 command.xnet.xnetrebuild
