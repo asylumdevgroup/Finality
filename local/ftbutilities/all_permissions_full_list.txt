@@ -1,4 +1,4 @@
-36226 nodes in total
+36026 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -65,8 +65,16 @@ enderio.gui.item_advanced_item_filter: ALL
 enderio.gui.item_basic_item_filter: ALL
 enderio.gui.item_big_advanced_item_filter: ALL
 enderio.gui.item_big_item_filter: ALL
+enderio.gui.item_dark_steel_boots: ALL
+enderio.gui.item_dark_steel_chestplate: ALL
+enderio.gui.item_dark_steel_helmet: ALL
+enderio.gui.item_dark_steel_leggings: ALL
 enderio.gui.item_enchantment_filter_big: ALL
 enderio.gui.item_enchantment_filter_normal: ALL
+enderio.gui.item_end_steel_boots: ALL
+enderio.gui.item_end_steel_chestplate: ALL
+enderio.gui.item_end_steel_helmet: ALL
+enderio.gui.item_end_steel_leggings: ALL
 enderio.gui.item_existing_item_filter: ALL
 enderio.gui.item_fluid_filter: ALL
 enderio.gui.item_limited_item_filter: ALL
@@ -85,6 +93,10 @@ enderio.gui.item_redstone_xnor_filter: ALL
 enderio.gui.item_redstone_xor_filter: ALL
 enderio.gui.item_soul_filter_big: ALL
 enderio.gui.item_soul_filter_normal: ALL
+enderio.gui.item_stellar_alloy_boots: ALL
+enderio.gui.item_stellar_alloy_chestplate: ALL
+enderio.gui.item_stellar_alloy_helmet: ALL
+enderio.gui.item_stellar_alloy_leggings: ALL
 enderio.soulvial.pickup: ALL
 enderio.soulvial.pickup_owned: OP
 enderio.soulvial.place: ALL
@@ -1651,6 +1663,7 @@ ftbutilities.claims.block.edit.botania.tinypotato: OP
 ftbutilities.claims.block.edit.botania.turntable: OP
 ftbutilities.claims.block.edit.botaunomy.elven_avatar: OP
 ftbutilities.claims.block.edit.buildinggadgets.constructionblock: OP
+ftbutilities.claims.block.edit.buildinggadgets.constructionblock_dense: OP
 ftbutilities.claims.block.edit.buildinggadgets.constructionblockpowder: OP
 ftbutilities.claims.block.edit.buildinggadgets.effectblock: OP
 ftbutilities.claims.block.edit.buildinggadgets.templatemanager: OP
@@ -2687,24 +2700,6 @@ ftbutilities.claims.block.edit.earthworks.wall_wood_shingle_dark_oak: OP
 ftbutilities.claims.block.edit.earthworks.wall_wood_shingle_jungle: OP
 ftbutilities.claims.block.edit.earthworks.wall_wood_shingle_oak: OP
 ftbutilities.claims.block.edit.earthworks.wall_wood_shingle_spruce: OP
-ftbutilities.claims.block.edit.efab.autocrafting_monitor: OP
-ftbutilities.claims.block.edit.efab.base: OP
-ftbutilities.claims.block.edit.efab.boiler: OP
-ftbutilities.claims.block.edit.efab.crafter: OP
-ftbutilities.claims.block.edit.efab.gearbox: OP
-ftbutilities.claims.block.edit.efab.grid: OP
-ftbutilities.claims.block.edit.efab.manareceptacle: OP
-ftbutilities.claims.block.edit.efab.monitor: OP
-ftbutilities.claims.block.edit.efab.pipes: OP
-ftbutilities.claims.block.edit.efab.power_optimizer: OP
-ftbutilities.claims.block.edit.efab.processor: OP
-ftbutilities.claims.block.edit.efab.rfcontrol: OP
-ftbutilities.claims.block.edit.efab.rfstorage: OP
-ftbutilities.claims.block.edit.efab.rfstorage_advanced: OP
-ftbutilities.claims.block.edit.efab.steamengine: OP
-ftbutilities.claims.block.edit.efab.storage: OP
-ftbutilities.claims.block.edit.efab.tank2: OP
-ftbutilities.claims.block.edit.efab.tank: OP
 ftbutilities.claims.block.edit.embers.advanced_edge: OP
 ftbutilities.claims.block.edit.embers.alchemical_redstone: OP
 ftbutilities.claims.block.edit.embers.alchemy_pedestal: OP
@@ -2712,7 +2707,9 @@ ftbutilities.claims.block.edit.embers.alchemy_tablet: OP
 ftbutilities.claims.block.edit.embers.aluminum: OP
 ftbutilities.claims.block.edit.embers.archaic_bricks: OP
 ftbutilities.claims.block.edit.embers.archaic_edge: OP
+ftbutilities.claims.block.edit.embers.archaic_geysir: OP
 ftbutilities.claims.block.edit.embers.archaic_light: OP
+ftbutilities.claims.block.edit.embers.archaic_mech_edge: OP
 ftbutilities.claims.block.edit.embers.archaic_tile: OP
 ftbutilities.claims.block.edit.embers.ashen_brick: OP
 ftbutilities.claims.block.edit.embers.ashen_brick_slab: OP
@@ -2773,6 +2770,7 @@ ftbutilities.claims.block.edit.embers.explosion_pedestal: OP
 ftbutilities.claims.block.edit.embers.field_chart: OP
 ftbutilities.claims.block.edit.embers.fluid_gauge: OP
 ftbutilities.claims.block.edit.embers.fluid_transfer: OP
+ftbutilities.claims.block.edit.embers.geo_separator: OP
 ftbutilities.claims.block.edit.embers.glow: OP
 ftbutilities.claims.block.edit.embers.gold: OP
 ftbutilities.claims.block.edit.embers.heat_coil: OP
@@ -2804,6 +2802,15 @@ ftbutilities.claims.block.edit.embers.pump: OP
 ftbutilities.claims.block.edit.embers.reactor: OP
 ftbutilities.claims.block.edit.embers.sealed_planks: OP
 ftbutilities.claims.block.edit.embers.seed: OP
+ftbutilities.claims.block.edit.embers.seed_aluminum: OP
+ftbutilities.claims.block.edit.embers.seed_copper: OP
+ftbutilities.claims.block.edit.embers.seed_dawnstone: OP
+ftbutilities.claims.block.edit.embers.seed_gold: OP
+ftbutilities.claims.block.edit.embers.seed_iron: OP
+ftbutilities.claims.block.edit.embers.seed_lead: OP
+ftbutilities.claims.block.edit.embers.seed_nickel: OP
+ftbutilities.claims.block.edit.embers.seed_silver: OP
+ftbutilities.claims.block.edit.embers.seed_tin: OP
 ftbutilities.claims.block.edit.embers.silver: OP
 ftbutilities.claims.block.edit.embers.stairs_ashen_brick: OP
 ftbutilities.claims.block.edit.embers.stairs_ashen_stone: OP
@@ -2813,6 +2820,7 @@ ftbutilities.claims.block.edit.embers.stamper: OP
 ftbutilities.claims.block.edit.embers.stamper_base: OP
 ftbutilities.claims.block.edit.embers.stirling: OP
 ftbutilities.claims.block.edit.embers.stone_edge: OP
+ftbutilities.claims.block.edit.embers.stone_valve: OP
 ftbutilities.claims.block.edit.embers.structure_marker: OP
 ftbutilities.claims.block.edit.embers.tin: OP
 ftbutilities.claims.block.edit.embers.vacuum: OP
@@ -3469,7 +3477,6 @@ ftbutilities.claims.block.edit.extendedcrafting.table_basic: OP
 ftbutilities.claims.block.edit.extendedcrafting.table_elite: OP
 ftbutilities.claims.block.edit.extendedcrafting.table_ultimate: OP
 ftbutilities.claims.block.edit.extendedcrafting.trimmed: OP
-ftbutilities.claims.block.edit.extrabitmanipulation.bodypart_template: OP
 ftbutilities.claims.block.edit.extracells.certustank: OP
 ftbutilities.claims.block.edit.extracells.ecbaseblock: OP
 ftbutilities.claims.block.edit.extracells.fluidcrafter: OP
@@ -3700,77 +3707,6 @@ ftbutilities.claims.block.edit.extrautils2.trashcanenergy: OP
 ftbutilities.claims.block.edit.extrautils2.trashcanfluid: OP
 ftbutilities.claims.block.edit.extrautils2.trashchest: OP
 ftbutilities.claims.block.edit.extrautils2.user: OP
-ftbutilities.claims.block.edit.factorytech.agitator: OP
-ftbutilities.claims.block.edit.factorytech.autocrafter: OP
-ftbutilities.claims.block.edit.factorytech.autominer: OP
-ftbutilities.claims.block.edit.factorytech.autopuller: OP
-ftbutilities.claims.block.edit.factorytech.batterygen: OP
-ftbutilities.claims.block.edit.factorytech.blockbreaker: OP
-ftbutilities.claims.block.edit.factorytech.blowtorch: OP
-ftbutilities.claims.block.edit.factorytech.bottomhatch: OP
-ftbutilities.claims.block.edit.factorytech.bricks: OP
-ftbutilities.claims.block.edit.factorytech.buffercrate: OP
-ftbutilities.claims.block.edit.factorytech.bulkmover: OP
-ftbutilities.claims.block.edit.factorytech.centrifuge: OP
-ftbutilities.claims.block.edit.factorytech.charger: OP
-ftbutilities.claims.block.edit.factorytech.circuitscribe: OP
-ftbutilities.claims.block.edit.factorytech.compacthopper: OP
-ftbutilities.claims.block.edit.factorytech.compressor: OP
-ftbutilities.claims.block.edit.factorytech.conveyor: OP
-ftbutilities.claims.block.edit.factorytech.coregen: OP
-ftbutilities.claims.block.edit.factorytech.crate: OP
-ftbutilities.claims.block.edit.factorytech.crucible: OP
-ftbutilities.claims.block.edit.factorytech.decocoil: OP
-ftbutilities.claims.block.edit.factorytech.deepdrill: OP
-ftbutilities.claims.block.edit.factorytech.disassembler: OP
-ftbutilities.claims.block.edit.factorytech.disruptor: OP
-ftbutilities.claims.block.edit.factorytech.electroplater: OP
-ftbutilities.claims.block.edit.factorytech.elevator: OP
-ftbutilities.claims.block.edit.factorytech.energizer: OP
-ftbutilities.claims.block.edit.factorytech.filtermover: OP
-ftbutilities.claims.block.edit.factorytech.fluiddrill: OP
-ftbutilities.claims.block.edit.factorytech.fluidpuller: OP
-ftbutilities.claims.block.edit.factorytech.fridge: OP
-ftbutilities.claims.block.edit.factorytech.grindstone: OP
-ftbutilities.claims.block.edit.factorytech.hatch: OP
-ftbutilities.claims.block.edit.factorytech.htfurnace: OP
-ftbutilities.claims.block.edit.factorytech.interceptor: OP
-ftbutilities.claims.block.edit.factorytech.inventorysensor: OP
-ftbutilities.claims.block.edit.factorytech.iondisperser: OP
-ftbutilities.claims.block.edit.factorytech.itempusher: OP
-ftbutilities.claims.block.edit.factorytech.itemredis: OP
-ftbutilities.claims.block.edit.factorytech.magcent: OP
-ftbutilities.claims.block.edit.factorytech.magnetblock: OP
-ftbutilities.claims.block.edit.factorytech.magnetizer: OP
-ftbutilities.claims.block.edit.factorytech.metal: OP
-ftbutilities.claims.block.edit.factorytech.metalcutter: OP
-ftbutilities.claims.block.edit.factorytech.mobfan: OP
-ftbutilities.claims.block.edit.factorytech.ore: OP
-ftbutilities.claims.block.edit.factorytech.oreblock: OP
-ftbutilities.claims.block.edit.factorytech.oredrill: OP
-ftbutilities.claims.block.edit.factorytech.pipe: OP
-ftbutilities.claims.block.edit.factorytech.planeshifter: OP
-ftbutilities.claims.block.edit.factorytech.planter: OP
-ftbutilities.claims.block.edit.factorytech.potionmixer: OP
-ftbutilities.claims.block.edit.factorytech.propfurnace: OP
-ftbutilities.claims.block.edit.factorytech.pulsecounter: OP
-ftbutilities.claims.block.edit.factorytech.pulser: OP
-ftbutilities.claims.block.edit.factorytech.realelevator: OP
-ftbutilities.claims.block.edit.factorytech.reclaimer: OP
-ftbutilities.claims.block.edit.factorytech.rednotifier: OP
-ftbutilities.claims.block.edit.factorytech.saw: OP
-ftbutilities.claims.block.edit.factorytech.scaffold: OP
-ftbutilities.claims.block.edit.factorytech.sequenceplacer: OP
-ftbutilities.claims.block.edit.factorytech.sluice: OP
-ftbutilities.claims.block.edit.factorytech.smokestack: OP
-ftbutilities.claims.block.edit.factorytech.spawner: OP
-ftbutilities.claims.block.edit.factorytech.stabilizer: OP
-ftbutilities.claims.block.edit.factorytech.stackmover: OP
-ftbutilities.claims.block.edit.factorytech.tankblock: OP
-ftbutilities.claims.block.edit.factorytech.temperer: OP
-ftbutilities.claims.block.edit.factorytech.teslacoil: OP
-ftbutilities.claims.block.edit.factorytech.watercollector: OP
-ftbutilities.claims.block.edit.factorytech.woodcutter: OP
 ftbutilities.claims.block.edit.farmingforblockheads.chicken_nest: OP
 ftbutilities.claims.block.edit.farmingforblockheads.feeding_trough: OP
 ftbutilities.claims.block.edit.farmingforblockheads.fertilized_farmland_healthy: OP
@@ -4523,7 +4459,12 @@ ftbutilities.claims.block.edit.galacticraftcore.grating475: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating476: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating477: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating478: OP
+ftbutilities.claims.block.edit.galacticraftcore.grating479: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating47: OP
+ftbutilities.claims.block.edit.galacticraftcore.grating480: OP
+ftbutilities.claims.block.edit.galacticraftcore.grating481: OP
+ftbutilities.claims.block.edit.galacticraftcore.grating482: OP
+ftbutilities.claims.block.edit.galacticraftcore.grating483: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating48: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating49: OP
 ftbutilities.claims.block.edit.galacticraftcore.grating4: OP
@@ -4996,6 +4937,7 @@ ftbutilities.claims.block.edit.industrialforegoing.biofuel: OP
 ftbutilities.claims.block.edit.industrialforegoing.biofuel_generator: OP
 ftbutilities.claims.block.edit.industrialforegoing.bioreactor: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_controller: OP
+ftbutilities.claims.block.edit.industrialforegoing.black_hole_controller_reworked: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_label: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_tank: OP
 ftbutilities.claims.block.edit.industrialforegoing.black_hole_unit: OP
@@ -5170,6 +5112,7 @@ ftbutilities.claims.block.edit.jaopca.block_crystalclustercobalt: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclustercoldiron: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclustercrystal: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclusterdarkiron: OP
+ftbutilities.claims.block.edit.jaopca.block_crystalclusterdesh: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclusterdilithium: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclusterdraconium: OP
 ftbutilities.claims.block.edit.jaopca.block_crystalclustergalite: OP
@@ -5277,6 +5220,7 @@ ftbutilities.claims.block.edit.jaopca.block_fencecoralium: OP
 ftbutilities.claims.block.edit.jaopca.block_fencecrystal: OP
 ftbutilities.claims.block.edit.jaopca.block_fencedark: OP
 ftbutilities.claims.block.edit.jaopca.block_fencedarkiron: OP
+ftbutilities.claims.block.edit.jaopca.block_fencedesh: OP
 ftbutilities.claims.block.edit.jaopca.block_fencediamond: OP
 ftbutilities.claims.block.edit.jaopca.block_fencedilithium: OP
 ftbutilities.claims.block.edit.jaopca.block_fencedimensionalshard: OP
@@ -5372,6 +5316,7 @@ ftbutilities.claims.block.edit.jaopca.block_glasshardenedcobalt: OP
 ftbutilities.claims.block.edit.jaopca.block_glasshardenedcoldiron: OP
 ftbutilities.claims.block.edit.jaopca.block_glasshardenedcrystal: OP
 ftbutilities.claims.block.edit.jaopca.block_glasshardeneddarkiron: OP
+ftbutilities.claims.block.edit.jaopca.block_glasshardeneddesh: OP
 ftbutilities.claims.block.edit.jaopca.block_glasshardeneddilithium: OP
 ftbutilities.claims.block.edit.jaopca.block_glasshardeneddraconium: OP
 ftbutilities.claims.block.edit.jaopca.block_glasshardenedgalite: OP
@@ -5851,10 +5796,6 @@ ftbutilities.claims.block.edit.mob_grinding_utils.tank: OP
 ftbutilities.claims.block.edit.mob_grinding_utils.tank_sink: OP
 ftbutilities.claims.block.edit.mob_grinding_utils.wither_muffler: OP
 ftbutilities.claims.block.edit.mob_grinding_utils.xp_tap: OP
-ftbutilities.claims.block.edit.mobtotems.incense_kindling_box: OP
-ftbutilities.claims.block.edit.mobtotems.offering_box: OP
-ftbutilities.claims.block.edit.mobtotems.sacred_light: OP
-ftbutilities.claims.block.edit.mobtotems.totem_wood: OP
 ftbutilities.claims.block.edit.modernmetals.aluminum: OP
 ftbutilities.claims.block.edit.modernmetals.aluminum_bars: OP
 ftbutilities.claims.block.edit.modernmetals.aluminum_block: OP
@@ -6139,9 +6080,6 @@ ftbutilities.claims.block.edit.modularmachinery.blockfluidinputhatch: OP
 ftbutilities.claims.block.edit.modularmachinery.blockfluidoutputhatch: OP
 ftbutilities.claims.block.edit.modularmachinery.blockinputbus: OP
 ftbutilities.claims.block.edit.modularmachinery.blockoutputbus: OP
-ftbutilities.claims.block.edit.multistorage.ender_chest: OP
-ftbutilities.claims.block.edit.multistorage.stone_storage: OP
-ftbutilities.claims.block.edit.multistorage.vault: OP
 ftbutilities.claims.block.edit.mysticalagradditions.awakened_draconium_crop: OP
 ftbutilities.claims.block.edit.mysticalagradditions.dragon_egg_crop: OP
 ftbutilities.claims.block.edit.mysticalagradditions.molten_base_essence: OP
@@ -6504,9 +6442,13 @@ ftbutilities.claims.block.edit.naturesaura.animal_generator: OP
 ftbutilities.claims.block.edit.naturesaura.animal_spawner: OP
 ftbutilities.claims.block.edit.naturesaura.aura_detector: OP
 ftbutilities.claims.block.edit.naturesaura.auto_crafter: OP
+ftbutilities.claims.block.edit.naturesaura.chunk_loader: OP
 ftbutilities.claims.block.edit.naturesaura.conversion_catalyst: OP
 ftbutilities.claims.block.edit.naturesaura.crushing_catalyst: OP
 ftbutilities.claims.block.edit.naturesaura.decayed_leaves: OP
+ftbutilities.claims.block.edit.naturesaura.dimension_rail_end: OP
+ftbutilities.claims.block.edit.naturesaura.dimension_rail_nether: OP
+ftbutilities.claims.block.edit.naturesaura.dimension_rail_overworld: OP
 ftbutilities.claims.block.edit.naturesaura.end_flower: OP
 ftbutilities.claims.block.edit.naturesaura.ender_crate: OP
 ftbutilities.claims.block.edit.naturesaura.field_creator: OP
@@ -6536,6 +6478,7 @@ ftbutilities.claims.block.edit.naturesaura.pickup_stopper: OP
 ftbutilities.claims.block.edit.naturesaura.placer: OP
 ftbutilities.claims.block.edit.naturesaura.potion_generator: OP
 ftbutilities.claims.block.edit.naturesaura.powder_placer: OP
+ftbutilities.claims.block.edit.naturesaura.projectile_generator: OP
 ftbutilities.claims.block.edit.naturesaura.rf_converter: OP
 ftbutilities.claims.block.edit.naturesaura.spawn_lamp: OP
 ftbutilities.claims.block.edit.naturesaura.time_changer: OP
@@ -6667,7 +6610,6 @@ ftbutilities.claims.block.edit.nuclearcraft.fluid_calcium_sulfate_solution: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_carbon_dioxide: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_carbon_monoxide: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_chocolate_liquor: OP
-ftbutilities.claims.block.edit.nuclearcraft.fluid_coal: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_cocoa_butter: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_condensate_water: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_corium: OP
@@ -6722,7 +6664,6 @@ ftbutilities.claims.block.edit.nuclearcraft.fluid_silver: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sodium: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sodium_fluoride_solution: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sodium_hydroxide_solution: OP
-ftbutilities.claims.block.edit.nuclearcraft.fluid_steam: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sugar: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sulfur: OP
 ftbutilities.claims.block.edit.nuclearcraft.fluid_sulfur_dioxide: OP
@@ -6743,6 +6684,7 @@ ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_act
 ftbutilities.claims.block.edit.nuclearcraft.fusion_electromagnet_transparent_idle: OP
 ftbutilities.claims.block.edit.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.edit.nuclearcraft.glowing_mushroom: OP
+ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_frame: OP
 ftbutilities.claims.block.edit.nuclearcraft.heat_exchanger_glass: OP
@@ -6791,6 +6733,7 @@ ftbutilities.claims.block.edit.nuclearcraft.rtg_californium: OP
 ftbutilities.claims.block.edit.nuclearcraft.rtg_plutonium: OP
 ftbutilities.claims.block.edit.nuclearcraft.rtg_uranium: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_beam: OP
+ftbutilities.claims.block.edit.nuclearcraft.salt_fission_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_distributor: OP
 ftbutilities.claims.block.edit.nuclearcraft.salt_fission_frame: OP
@@ -6810,6 +6753,7 @@ ftbutilities.claims.block.edit.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.edit.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.edit.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.edit.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_dynamo_coil: OP
 ftbutilities.claims.block.edit.nuclearcraft.turbine_frame: OP
@@ -6992,8 +6936,8 @@ ftbutilities.claims.block.edit.planetprogression.satellite_builder: OP
 ftbutilities.claims.block.edit.planetprogression.satellite_controller: OP
 ftbutilities.claims.block.edit.planetprogression.telescope: OP
 ftbutilities.claims.block.edit.planetprogression.telescope_fake_block: OP
-ftbutilities.claims.block.edit.platforms.platform: OP
 ftbutilities.claims.block.edit.plustic.alumiteblock: OP
+ftbutilities.claims.block.edit.plustic.invarblock: OP
 ftbutilities.claims.block.edit.plustic.mirionblock: OP
 ftbutilities.claims.block.edit.plustic.osgloglasblock: OP
 ftbutilities.claims.block.edit.plustic.osmiridiumblock: OP
@@ -7005,9 +6949,11 @@ ftbutilities.claims.block.edit.plustic.plustic.molten_manasteel: OP
 ftbutilities.claims.block.edit.plustic.plustic.molten_mirion: OP
 ftbutilities.claims.block.edit.plustic.plustic.molten_osgloglas: OP
 ftbutilities.claims.block.edit.plustic.plustic.molten_osmiridium: OP
+ftbutilities.claims.block.edit.plustic.plustic.molten_osmium: OP
 ftbutilities.claims.block.edit.plustic.plustic.molten_refinedglowstone: OP
 ftbutilities.claims.block.edit.plustic.plustic.molten_refinedobsidian: OP
 ftbutilities.claims.block.edit.plustic.plustic.molten_terrasteel: OP
+ftbutilities.claims.block.edit.plustic.plustic.molten_titanium: OP
 ftbutilities.claims.block.edit.pneumaticcraft.advanced_air_compressor: OP
 ftbutilities.claims.block.edit.pneumaticcraft.advanced_liquid_compressor: OP
 ftbutilities.claims.block.edit.pneumaticcraft.advanced_pressure_tube: OP
@@ -7063,15 +7009,6 @@ ftbutilities.claims.block.edit.pneumaticcraft.universal_sensor: OP
 ftbutilities.claims.block.edit.pneumaticcraft.uv_light_box: OP
 ftbutilities.claims.block.edit.pneumaticcraft.vacuum_pump: OP
 ftbutilities.claims.block.edit.pneumaticcraft.vortex_tube: OP
-ftbutilities.claims.block.edit.portality.controller: OP
-ftbutilities.claims.block.edit.portality.frame: OP
-ftbutilities.claims.block.edit.portality.module_energy: OP
-ftbutilities.claims.block.edit.portality.module_fluids: OP
-ftbutilities.claims.block.edit.portality.module_interdimensional: OP
-ftbutilities.claims.block.edit.portality.module_items: OP
-ftbutilities.claims.block.edit.powersuits.liquid_nitrogen: OP
-ftbutilities.claims.block.edit.powersuits.luxcapacitor: OP
-ftbutilities.claims.block.edit.powersuits.tinkertable: OP
 ftbutilities.claims.block.edit.practicallogistics2.advancedholographicdisplay: OP
 ftbutilities.claims.block.edit.practicallogistics2.array: OP
 ftbutilities.claims.block.edit.practicallogistics2.clock: OP
@@ -7945,7 +7882,6 @@ ftbutilities.claims.block.edit.randomthings.voxelprojector: OP
 ftbutilities.claims.block.edit.rangedpumps.pump: OP
 ftbutilities.claims.block.edit.rebornstorage.multicrafter: OP
 ftbutilities.claims.block.edit.redstonearsenal.storage: OP
-ftbutilities.claims.block.edit.refined_avaritia.extreme_pattern_encoder: OP
 ftbutilities.claims.block.edit.refinedstorage.cable: OP
 ftbutilities.claims.block.edit.refinedstorage.constructor: OP
 ftbutilities.claims.block.edit.refinedstorage.controller: OP
@@ -7977,11 +7913,6 @@ ftbutilities.claims.block.edit.refinedstorage.wireless_transmitter: OP
 ftbutilities.claims.block.edit.refinedstorage.writer: OP
 ftbutilities.claims.block.edit.refinedstoragerequestify.requester: OP
 ftbutilities.claims.block.edit.rf-capability-adapter.aecapabilityadapter: OP
-ftbutilities.claims.block.edit.rflux.flatlightblock_off: OP
-ftbutilities.claims.block.edit.rflux.flatlightblock_on: OP
-ftbutilities.claims.block.edit.rflux.invisible_block: OP
-ftbutilities.claims.block.edit.rflux.lightblock_off: OP
-ftbutilities.claims.block.edit.rflux.lightblock_on: OP
 ftbutilities.claims.block.edit.rftools.analog_block: OP
 ftbutilities.claims.block.edit.rftools.block_protector: OP
 ftbutilities.claims.block.edit.rftools.booster: OP
@@ -8095,13 +8026,16 @@ ftbutilities.claims.block.edit.rftoolspower.information_screen: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_blocks_deco: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_blocks_gems: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_blocks_tech: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_blocks_tech_b: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_bricks_deco: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_bricks_gems: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_bricks_tech: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.alloy_bricks_tech_b: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.didymium_glass: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.acrylic_acid: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.chloromethane: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.coal_slurry: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.coal_tar: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.compressed_air: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.cooled_air: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.dense_brine: OP
@@ -8110,6 +8044,7 @@ ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.hydrochloric_acid: O
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.krypton: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.leachate: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.liquid_ammonia: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.liquid_nitrogen: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.liquid_oxygen: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_bam: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_corten: OP
@@ -8118,6 +8053,8 @@ ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_cunife: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_cupronickel: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_hastelloy: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_hydronalium: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_inconel: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_nial: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_nichrome: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_nimonic: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_pewter: OP
@@ -8127,6 +8064,7 @@ ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_tantaloy: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_titanium: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_vanadium: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_vanasteel: OP
+ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.molten_zircaloy: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.mother_liquor: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.neon: OP
 ftbutilities.claims.block.edit.rockhounding_chemistry.fluid.nitric_acid: OP
@@ -8710,6 +8648,7 @@ ftbutilities.claims.block.edit.tconstruct.molten_emerald: OP
 ftbutilities.claims.block.edit.tconstruct.molten_enderium: OP
 ftbutilities.claims.block.edit.tconstruct.molten_glass: OP
 ftbutilities.claims.block.edit.tconstruct.molten_gold: OP
+ftbutilities.claims.block.edit.tconstruct.molten_invar: OP
 ftbutilities.claims.block.edit.tconstruct.molten_iridium: OP
 ftbutilities.claims.block.edit.tconstruct.molten_iron: OP
 ftbutilities.claims.block.edit.tconstruct.molten_knightslime: OP
@@ -9206,6 +9145,7 @@ ftbutilities.claims.block.edit.yabba.antibarrel: OP
 ftbutilities.claims.block.edit.yabba.decorative_block: OP
 ftbutilities.claims.block.edit.yabba.item_barrel: OP
 ftbutilities.claims.block.edit.yabba.item_barrel_connector: OP
+ftbutilities.claims.block.edit.zensummoning.altar: OP
 ftbutilities.claims.block.edit.zettaindustries.batterycomputerport: OP
 ftbutilities.claims.block.edit.zettaindustries.batterycontroller: OP
 ftbutilities.claims.block.edit.zettaindustries.batteryelectrode: OP
@@ -10641,6 +10581,7 @@ ftbutilities.claims.block.interact.botania.tinypotato: OP
 ftbutilities.claims.block.interact.botania.turntable: OP
 ftbutilities.claims.block.interact.botaunomy.elven_avatar: OP
 ftbutilities.claims.block.interact.buildinggadgets.constructionblock: OP
+ftbutilities.claims.block.interact.buildinggadgets.constructionblock_dense: OP
 ftbutilities.claims.block.interact.buildinggadgets.constructionblockpowder: OP
 ftbutilities.claims.block.interact.buildinggadgets.effectblock: OP
 ftbutilities.claims.block.interact.buildinggadgets.templatemanager: OP
@@ -11677,24 +11618,6 @@ ftbutilities.claims.block.interact.earthworks.wall_wood_shingle_dark_oak: OP
 ftbutilities.claims.block.interact.earthworks.wall_wood_shingle_jungle: OP
 ftbutilities.claims.block.interact.earthworks.wall_wood_shingle_oak: OP
 ftbutilities.claims.block.interact.earthworks.wall_wood_shingle_spruce: OP
-ftbutilities.claims.block.interact.efab.autocrafting_monitor: OP
-ftbutilities.claims.block.interact.efab.base: OP
-ftbutilities.claims.block.interact.efab.boiler: OP
-ftbutilities.claims.block.interact.efab.crafter: OP
-ftbutilities.claims.block.interact.efab.gearbox: OP
-ftbutilities.claims.block.interact.efab.grid: OP
-ftbutilities.claims.block.interact.efab.manareceptacle: OP
-ftbutilities.claims.block.interact.efab.monitor: OP
-ftbutilities.claims.block.interact.efab.pipes: OP
-ftbutilities.claims.block.interact.efab.power_optimizer: OP
-ftbutilities.claims.block.interact.efab.processor: OP
-ftbutilities.claims.block.interact.efab.rfcontrol: OP
-ftbutilities.claims.block.interact.efab.rfstorage: OP
-ftbutilities.claims.block.interact.efab.rfstorage_advanced: OP
-ftbutilities.claims.block.interact.efab.steamengine: OP
-ftbutilities.claims.block.interact.efab.storage: OP
-ftbutilities.claims.block.interact.efab.tank2: OP
-ftbutilities.claims.block.interact.efab.tank: OP
 ftbutilities.claims.block.interact.embers.advanced_edge: OP
 ftbutilities.claims.block.interact.embers.alchemical_redstone: OP
 ftbutilities.claims.block.interact.embers.alchemy_pedestal: OP
@@ -11702,7 +11625,9 @@ ftbutilities.claims.block.interact.embers.alchemy_tablet: OP
 ftbutilities.claims.block.interact.embers.aluminum: OP
 ftbutilities.claims.block.interact.embers.archaic_bricks: OP
 ftbutilities.claims.block.interact.embers.archaic_edge: OP
+ftbutilities.claims.block.interact.embers.archaic_geysir: OP
 ftbutilities.claims.block.interact.embers.archaic_light: OP
+ftbutilities.claims.block.interact.embers.archaic_mech_edge: OP
 ftbutilities.claims.block.interact.embers.archaic_tile: OP
 ftbutilities.claims.block.interact.embers.ashen_brick: OP
 ftbutilities.claims.block.interact.embers.ashen_brick_slab: OP
@@ -11763,6 +11688,7 @@ ftbutilities.claims.block.interact.embers.explosion_pedestal: OP
 ftbutilities.claims.block.interact.embers.field_chart: OP
 ftbutilities.claims.block.interact.embers.fluid_gauge: OP
 ftbutilities.claims.block.interact.embers.fluid_transfer: OP
+ftbutilities.claims.block.interact.embers.geo_separator: OP
 ftbutilities.claims.block.interact.embers.glow: OP
 ftbutilities.claims.block.interact.embers.gold: OP
 ftbutilities.claims.block.interact.embers.heat_coil: OP
@@ -11794,6 +11720,15 @@ ftbutilities.claims.block.interact.embers.pump: OP
 ftbutilities.claims.block.interact.embers.reactor: OP
 ftbutilities.claims.block.interact.embers.sealed_planks: OP
 ftbutilities.claims.block.interact.embers.seed: OP
+ftbutilities.claims.block.interact.embers.seed_aluminum: OP
+ftbutilities.claims.block.interact.embers.seed_copper: OP
+ftbutilities.claims.block.interact.embers.seed_dawnstone: OP
+ftbutilities.claims.block.interact.embers.seed_gold: OP
+ftbutilities.claims.block.interact.embers.seed_iron: OP
+ftbutilities.claims.block.interact.embers.seed_lead: OP
+ftbutilities.claims.block.interact.embers.seed_nickel: OP
+ftbutilities.claims.block.interact.embers.seed_silver: OP
+ftbutilities.claims.block.interact.embers.seed_tin: OP
 ftbutilities.claims.block.interact.embers.silver: OP
 ftbutilities.claims.block.interact.embers.stairs_ashen_brick: OP
 ftbutilities.claims.block.interact.embers.stairs_ashen_stone: OP
@@ -11803,6 +11738,7 @@ ftbutilities.claims.block.interact.embers.stamper: OP
 ftbutilities.claims.block.interact.embers.stamper_base: OP
 ftbutilities.claims.block.interact.embers.stirling: OP
 ftbutilities.claims.block.interact.embers.stone_edge: OP
+ftbutilities.claims.block.interact.embers.stone_valve: OP
 ftbutilities.claims.block.interact.embers.structure_marker: OP
 ftbutilities.claims.block.interact.embers.tin: OP
 ftbutilities.claims.block.interact.embers.vacuum: OP
@@ -12459,7 +12395,6 @@ ftbutilities.claims.block.interact.extendedcrafting.table_basic: OP
 ftbutilities.claims.block.interact.extendedcrafting.table_elite: OP
 ftbutilities.claims.block.interact.extendedcrafting.table_ultimate: OP
 ftbutilities.claims.block.interact.extendedcrafting.trimmed: OP
-ftbutilities.claims.block.interact.extrabitmanipulation.bodypart_template: OP
 ftbutilities.claims.block.interact.extracells.certustank: OP
 ftbutilities.claims.block.interact.extracells.ecbaseblock: OP
 ftbutilities.claims.block.interact.extracells.fluidcrafter: OP
@@ -12690,77 +12625,6 @@ ftbutilities.claims.block.interact.extrautils2.trashcanenergy: OP
 ftbutilities.claims.block.interact.extrautils2.trashcanfluid: OP
 ftbutilities.claims.block.interact.extrautils2.trashchest: OP
 ftbutilities.claims.block.interact.extrautils2.user: OP
-ftbutilities.claims.block.interact.factorytech.agitator: OP
-ftbutilities.claims.block.interact.factorytech.autocrafter: OP
-ftbutilities.claims.block.interact.factorytech.autominer: OP
-ftbutilities.claims.block.interact.factorytech.autopuller: OP
-ftbutilities.claims.block.interact.factorytech.batterygen: OP
-ftbutilities.claims.block.interact.factorytech.blockbreaker: OP
-ftbutilities.claims.block.interact.factorytech.blowtorch: OP
-ftbutilities.claims.block.interact.factorytech.bottomhatch: OP
-ftbutilities.claims.block.interact.factorytech.bricks: OP
-ftbutilities.claims.block.interact.factorytech.buffercrate: OP
-ftbutilities.claims.block.interact.factorytech.bulkmover: OP
-ftbutilities.claims.block.interact.factorytech.centrifuge: OP
-ftbutilities.claims.block.interact.factorytech.charger: OP
-ftbutilities.claims.block.interact.factorytech.circuitscribe: OP
-ftbutilities.claims.block.interact.factorytech.compacthopper: OP
-ftbutilities.claims.block.interact.factorytech.compressor: OP
-ftbutilities.claims.block.interact.factorytech.conveyor: OP
-ftbutilities.claims.block.interact.factorytech.coregen: OP
-ftbutilities.claims.block.interact.factorytech.crate: OP
-ftbutilities.claims.block.interact.factorytech.crucible: OP
-ftbutilities.claims.block.interact.factorytech.decocoil: OP
-ftbutilities.claims.block.interact.factorytech.deepdrill: OP
-ftbutilities.claims.block.interact.factorytech.disassembler: OP
-ftbutilities.claims.block.interact.factorytech.disruptor: OP
-ftbutilities.claims.block.interact.factorytech.electroplater: OP
-ftbutilities.claims.block.interact.factorytech.elevator: OP
-ftbutilities.claims.block.interact.factorytech.energizer: OP
-ftbutilities.claims.block.interact.factorytech.filtermover: OP
-ftbutilities.claims.block.interact.factorytech.fluiddrill: OP
-ftbutilities.claims.block.interact.factorytech.fluidpuller: OP
-ftbutilities.claims.block.interact.factorytech.fridge: OP
-ftbutilities.claims.block.interact.factorytech.grindstone: OP
-ftbutilities.claims.block.interact.factorytech.hatch: OP
-ftbutilities.claims.block.interact.factorytech.htfurnace: OP
-ftbutilities.claims.block.interact.factorytech.interceptor: OP
-ftbutilities.claims.block.interact.factorytech.inventorysensor: OP
-ftbutilities.claims.block.interact.factorytech.iondisperser: OP
-ftbutilities.claims.block.interact.factorytech.itempusher: OP
-ftbutilities.claims.block.interact.factorytech.itemredis: OP
-ftbutilities.claims.block.interact.factorytech.magcent: OP
-ftbutilities.claims.block.interact.factorytech.magnetblock: OP
-ftbutilities.claims.block.interact.factorytech.magnetizer: OP
-ftbutilities.claims.block.interact.factorytech.metal: OP
-ftbutilities.claims.block.interact.factorytech.metalcutter: OP
-ftbutilities.claims.block.interact.factorytech.mobfan: OP
-ftbutilities.claims.block.interact.factorytech.ore: OP
-ftbutilities.claims.block.interact.factorytech.oreblock: OP
-ftbutilities.claims.block.interact.factorytech.oredrill: OP
-ftbutilities.claims.block.interact.factorytech.pipe: OP
-ftbutilities.claims.block.interact.factorytech.planeshifter: OP
-ftbutilities.claims.block.interact.factorytech.planter: OP
-ftbutilities.claims.block.interact.factorytech.potionmixer: OP
-ftbutilities.claims.block.interact.factorytech.propfurnace: OP
-ftbutilities.claims.block.interact.factorytech.pulsecounter: OP
-ftbutilities.claims.block.interact.factorytech.pulser: OP
-ftbutilities.claims.block.interact.factorytech.realelevator: OP
-ftbutilities.claims.block.interact.factorytech.reclaimer: OP
-ftbutilities.claims.block.interact.factorytech.rednotifier: OP
-ftbutilities.claims.block.interact.factorytech.saw: OP
-ftbutilities.claims.block.interact.factorytech.scaffold: OP
-ftbutilities.claims.block.interact.factorytech.sequenceplacer: OP
-ftbutilities.claims.block.interact.factorytech.sluice: OP
-ftbutilities.claims.block.interact.factorytech.smokestack: OP
-ftbutilities.claims.block.interact.factorytech.spawner: OP
-ftbutilities.claims.block.interact.factorytech.stabilizer: OP
-ftbutilities.claims.block.interact.factorytech.stackmover: OP
-ftbutilities.claims.block.interact.factorytech.tankblock: OP
-ftbutilities.claims.block.interact.factorytech.temperer: OP
-ftbutilities.claims.block.interact.factorytech.teslacoil: OP
-ftbutilities.claims.block.interact.factorytech.watercollector: OP
-ftbutilities.claims.block.interact.factorytech.woodcutter: OP
 ftbutilities.claims.block.interact.farmingforblockheads.chicken_nest: OP
 ftbutilities.claims.block.interact.farmingforblockheads.feeding_trough: OP
 ftbutilities.claims.block.interact.farmingforblockheads.fertilized_farmland_healthy: OP
@@ -13513,7 +13377,12 @@ ftbutilities.claims.block.interact.galacticraftcore.grating475: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating476: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating477: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating478: OP
+ftbutilities.claims.block.interact.galacticraftcore.grating479: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating47: OP
+ftbutilities.claims.block.interact.galacticraftcore.grating480: OP
+ftbutilities.claims.block.interact.galacticraftcore.grating481: OP
+ftbutilities.claims.block.interact.galacticraftcore.grating482: OP
+ftbutilities.claims.block.interact.galacticraftcore.grating483: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating48: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating49: OP
 ftbutilities.claims.block.interact.galacticraftcore.grating4: OP
@@ -13986,6 +13855,7 @@ ftbutilities.claims.block.interact.industrialforegoing.biofuel: OP
 ftbutilities.claims.block.interact.industrialforegoing.biofuel_generator: OP
 ftbutilities.claims.block.interact.industrialforegoing.bioreactor: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_controller: OP
+ftbutilities.claims.block.interact.industrialforegoing.black_hole_controller_reworked: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_label: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_tank: OP
 ftbutilities.claims.block.interact.industrialforegoing.black_hole_unit: OP
@@ -14160,6 +14030,7 @@ ftbutilities.claims.block.interact.jaopca.block_crystalclustercobalt: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclustercoldiron: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclustercrystal: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclusterdarkiron: OP
+ftbutilities.claims.block.interact.jaopca.block_crystalclusterdesh: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclusterdilithium: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclusterdraconium: OP
 ftbutilities.claims.block.interact.jaopca.block_crystalclustergalite: OP
@@ -14267,6 +14138,7 @@ ftbutilities.claims.block.interact.jaopca.block_fencecoralium: OP
 ftbutilities.claims.block.interact.jaopca.block_fencecrystal: OP
 ftbutilities.claims.block.interact.jaopca.block_fencedark: OP
 ftbutilities.claims.block.interact.jaopca.block_fencedarkiron: OP
+ftbutilities.claims.block.interact.jaopca.block_fencedesh: OP
 ftbutilities.claims.block.interact.jaopca.block_fencediamond: OP
 ftbutilities.claims.block.interact.jaopca.block_fencedilithium: OP
 ftbutilities.claims.block.interact.jaopca.block_fencedimensionalshard: OP
@@ -14362,6 +14234,7 @@ ftbutilities.claims.block.interact.jaopca.block_glasshardenedcobalt: OP
 ftbutilities.claims.block.interact.jaopca.block_glasshardenedcoldiron: OP
 ftbutilities.claims.block.interact.jaopca.block_glasshardenedcrystal: OP
 ftbutilities.claims.block.interact.jaopca.block_glasshardeneddarkiron: OP
+ftbutilities.claims.block.interact.jaopca.block_glasshardeneddesh: OP
 ftbutilities.claims.block.interact.jaopca.block_glasshardeneddilithium: OP
 ftbutilities.claims.block.interact.jaopca.block_glasshardeneddraconium: OP
 ftbutilities.claims.block.interact.jaopca.block_glasshardenedgalite: OP
@@ -14841,10 +14714,6 @@ ftbutilities.claims.block.interact.mob_grinding_utils.tank: OP
 ftbutilities.claims.block.interact.mob_grinding_utils.tank_sink: OP
 ftbutilities.claims.block.interact.mob_grinding_utils.wither_muffler: OP
 ftbutilities.claims.block.interact.mob_grinding_utils.xp_tap: OP
-ftbutilities.claims.block.interact.mobtotems.incense_kindling_box: OP
-ftbutilities.claims.block.interact.mobtotems.offering_box: OP
-ftbutilities.claims.block.interact.mobtotems.sacred_light: OP
-ftbutilities.claims.block.interact.mobtotems.totem_wood: OP
 ftbutilities.claims.block.interact.modernmetals.aluminum: OP
 ftbutilities.claims.block.interact.modernmetals.aluminum_bars: OP
 ftbutilities.claims.block.interact.modernmetals.aluminum_block: OP
@@ -15129,9 +14998,6 @@ ftbutilities.claims.block.interact.modularmachinery.blockfluidinputhatch: OP
 ftbutilities.claims.block.interact.modularmachinery.blockfluidoutputhatch: OP
 ftbutilities.claims.block.interact.modularmachinery.blockinputbus: OP
 ftbutilities.claims.block.interact.modularmachinery.blockoutputbus: OP
-ftbutilities.claims.block.interact.multistorage.ender_chest: OP
-ftbutilities.claims.block.interact.multistorage.stone_storage: OP
-ftbutilities.claims.block.interact.multistorage.vault: OP
 ftbutilities.claims.block.interact.mysticalagradditions.awakened_draconium_crop: OP
 ftbutilities.claims.block.interact.mysticalagradditions.dragon_egg_crop: OP
 ftbutilities.claims.block.interact.mysticalagradditions.molten_base_essence: OP
@@ -15494,9 +15360,13 @@ ftbutilities.claims.block.interact.naturesaura.animal_generator: OP
 ftbutilities.claims.block.interact.naturesaura.animal_spawner: OP
 ftbutilities.claims.block.interact.naturesaura.aura_detector: OP
 ftbutilities.claims.block.interact.naturesaura.auto_crafter: OP
+ftbutilities.claims.block.interact.naturesaura.chunk_loader: OP
 ftbutilities.claims.block.interact.naturesaura.conversion_catalyst: OP
 ftbutilities.claims.block.interact.naturesaura.crushing_catalyst: OP
 ftbutilities.claims.block.interact.naturesaura.decayed_leaves: OP
+ftbutilities.claims.block.interact.naturesaura.dimension_rail_end: OP
+ftbutilities.claims.block.interact.naturesaura.dimension_rail_nether: OP
+ftbutilities.claims.block.interact.naturesaura.dimension_rail_overworld: OP
 ftbutilities.claims.block.interact.naturesaura.end_flower: OP
 ftbutilities.claims.block.interact.naturesaura.ender_crate: OP
 ftbutilities.claims.block.interact.naturesaura.field_creator: OP
@@ -15526,6 +15396,7 @@ ftbutilities.claims.block.interact.naturesaura.pickup_stopper: OP
 ftbutilities.claims.block.interact.naturesaura.placer: OP
 ftbutilities.claims.block.interact.naturesaura.potion_generator: OP
 ftbutilities.claims.block.interact.naturesaura.powder_placer: OP
+ftbutilities.claims.block.interact.naturesaura.projectile_generator: OP
 ftbutilities.claims.block.interact.naturesaura.rf_converter: OP
 ftbutilities.claims.block.interact.naturesaura.spawn_lamp: OP
 ftbutilities.claims.block.interact.naturesaura.time_changer: OP
@@ -15657,7 +15528,6 @@ ftbutilities.claims.block.interact.nuclearcraft.fluid_calcium_sulfate_solution: 
 ftbutilities.claims.block.interact.nuclearcraft.fluid_carbon_dioxide: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_carbon_monoxide: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_chocolate_liquor: OP
-ftbutilities.claims.block.interact.nuclearcraft.fluid_coal: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_cocoa_butter: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_condensate_water: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_corium: OP
@@ -15712,7 +15582,6 @@ ftbutilities.claims.block.interact.nuclearcraft.fluid_silver: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sodium: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sodium_fluoride_solution: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sodium_hydroxide_solution: OP
-ftbutilities.claims.block.interact.nuclearcraft.fluid_steam: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sugar: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sulfur: OP
 ftbutilities.claims.block.interact.nuclearcraft.fluid_sulfur_dioxide: OP
@@ -15733,6 +15602,7 @@ ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent
 ftbutilities.claims.block.interact.nuclearcraft.fusion_electromagnet_transparent_idle: OP
 ftbutilities.claims.block.interact.nuclearcraft.geiger_block: OP
 ftbutilities.claims.block.interact.nuclearcraft.glowing_mushroom: OP
+ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_frame: OP
 ftbutilities.claims.block.interact.nuclearcraft.heat_exchanger_glass: OP
@@ -15781,6 +15651,7 @@ ftbutilities.claims.block.interact.nuclearcraft.rtg_californium: OP
 ftbutilities.claims.block.interact.nuclearcraft.rtg_plutonium: OP
 ftbutilities.claims.block.interact.nuclearcraft.rtg_uranium: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_beam: OP
+ftbutilities.claims.block.interact.nuclearcraft.salt_fission_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_distributor: OP
 ftbutilities.claims.block.interact.nuclearcraft.salt_fission_frame: OP
@@ -15800,6 +15671,7 @@ ftbutilities.claims.block.interact.nuclearcraft.solar_panel_du: OP
 ftbutilities.claims.block.interact.nuclearcraft.solar_panel_elite: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_active: OP
 ftbutilities.claims.block.interact.nuclearcraft.supercooler_idle: OP
+ftbutilities.claims.block.interact.nuclearcraft.turbine_computer_port: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_controller: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_dynamo_coil: OP
 ftbutilities.claims.block.interact.nuclearcraft.turbine_frame: OP
@@ -15982,8 +15854,8 @@ ftbutilities.claims.block.interact.planetprogression.satellite_builder: OP
 ftbutilities.claims.block.interact.planetprogression.satellite_controller: OP
 ftbutilities.claims.block.interact.planetprogression.telescope: OP
 ftbutilities.claims.block.interact.planetprogression.telescope_fake_block: OP
-ftbutilities.claims.block.interact.platforms.platform: OP
 ftbutilities.claims.block.interact.plustic.alumiteblock: OP
+ftbutilities.claims.block.interact.plustic.invarblock: OP
 ftbutilities.claims.block.interact.plustic.mirionblock: OP
 ftbutilities.claims.block.interact.plustic.osgloglasblock: OP
 ftbutilities.claims.block.interact.plustic.osmiridiumblock: OP
@@ -15995,9 +15867,11 @@ ftbutilities.claims.block.interact.plustic.plustic.molten_manasteel: OP
 ftbutilities.claims.block.interact.plustic.plustic.molten_mirion: OP
 ftbutilities.claims.block.interact.plustic.plustic.molten_osgloglas: OP
 ftbutilities.claims.block.interact.plustic.plustic.molten_osmiridium: OP
+ftbutilities.claims.block.interact.plustic.plustic.molten_osmium: OP
 ftbutilities.claims.block.interact.plustic.plustic.molten_refinedglowstone: OP
 ftbutilities.claims.block.interact.plustic.plustic.molten_refinedobsidian: OP
 ftbutilities.claims.block.interact.plustic.plustic.molten_terrasteel: OP
+ftbutilities.claims.block.interact.plustic.plustic.molten_titanium: OP
 ftbutilities.claims.block.interact.pneumaticcraft.advanced_air_compressor: OP
 ftbutilities.claims.block.interact.pneumaticcraft.advanced_liquid_compressor: OP
 ftbutilities.claims.block.interact.pneumaticcraft.advanced_pressure_tube: OP
@@ -16053,15 +15927,6 @@ ftbutilities.claims.block.interact.pneumaticcraft.universal_sensor: OP
 ftbutilities.claims.block.interact.pneumaticcraft.uv_light_box: OP
 ftbutilities.claims.block.interact.pneumaticcraft.vacuum_pump: OP
 ftbutilities.claims.block.interact.pneumaticcraft.vortex_tube: OP
-ftbutilities.claims.block.interact.portality.controller: OP
-ftbutilities.claims.block.interact.portality.frame: OP
-ftbutilities.claims.block.interact.portality.module_energy: OP
-ftbutilities.claims.block.interact.portality.module_fluids: OP
-ftbutilities.claims.block.interact.portality.module_interdimensional: OP
-ftbutilities.claims.block.interact.portality.module_items: OP
-ftbutilities.claims.block.interact.powersuits.liquid_nitrogen: OP
-ftbutilities.claims.block.interact.powersuits.luxcapacitor: OP
-ftbutilities.claims.block.interact.powersuits.tinkertable: OP
 ftbutilities.claims.block.interact.practicallogistics2.advancedholographicdisplay: OP
 ftbutilities.claims.block.interact.practicallogistics2.array: OP
 ftbutilities.claims.block.interact.practicallogistics2.clock: OP
@@ -16935,7 +16800,6 @@ ftbutilities.claims.block.interact.randomthings.voxelprojector: OP
 ftbutilities.claims.block.interact.rangedpumps.pump: OP
 ftbutilities.claims.block.interact.rebornstorage.multicrafter: OP
 ftbutilities.claims.block.interact.redstonearsenal.storage: OP
-ftbutilities.claims.block.interact.refined_avaritia.extreme_pattern_encoder: OP
 ftbutilities.claims.block.interact.refinedstorage.cable: OP
 ftbutilities.claims.block.interact.refinedstorage.constructor: OP
 ftbutilities.claims.block.interact.refinedstorage.controller: OP
@@ -16967,11 +16831,6 @@ ftbutilities.claims.block.interact.refinedstorage.wireless_transmitter: OP
 ftbutilities.claims.block.interact.refinedstorage.writer: OP
 ftbutilities.claims.block.interact.refinedstoragerequestify.requester: OP
 ftbutilities.claims.block.interact.rf-capability-adapter.aecapabilityadapter: OP
-ftbutilities.claims.block.interact.rflux.flatlightblock_off: OP
-ftbutilities.claims.block.interact.rflux.flatlightblock_on: OP
-ftbutilities.claims.block.interact.rflux.invisible_block: OP
-ftbutilities.claims.block.interact.rflux.lightblock_off: OP
-ftbutilities.claims.block.interact.rflux.lightblock_on: OP
 ftbutilities.claims.block.interact.rftools.analog_block: OP
 ftbutilities.claims.block.interact.rftools.block_protector: OP
 ftbutilities.claims.block.interact.rftools.booster: OP
@@ -17085,13 +16944,16 @@ ftbutilities.claims.block.interact.rftoolspower.information_screen: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_blocks_deco: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_blocks_gems: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_blocks_tech: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_blocks_tech_b: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_bricks_deco: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_bricks_gems: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_bricks_tech: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.alloy_bricks_tech_b: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.didymium_glass: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.acrylic_acid: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.chloromethane: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.coal_slurry: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.coal_tar: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.compressed_air: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.cooled_air: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.dense_brine: OP
@@ -17100,6 +16962,7 @@ ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.hydrochloric_aci
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.krypton: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.leachate: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.liquid_ammonia: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.liquid_nitrogen: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.liquid_oxygen: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_bam: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_corten: OP
@@ -17108,6 +16971,8 @@ ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_cunife: O
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_cupronickel: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_hastelloy: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_hydronalium: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_inconel: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_nial: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_nichrome: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_nimonic: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_pewter: OP
@@ -17117,6 +16982,7 @@ ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_tantaloy:
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_titanium: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_vanadium: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_vanasteel: OP
+ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.molten_zircaloy: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.mother_liquor: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.neon: OP
 ftbutilities.claims.block.interact.rockhounding_chemistry.fluid.nitric_acid: OP
@@ -17700,6 +17566,7 @@ ftbutilities.claims.block.interact.tconstruct.molten_emerald: OP
 ftbutilities.claims.block.interact.tconstruct.molten_enderium: OP
 ftbutilities.claims.block.interact.tconstruct.molten_glass: OP
 ftbutilities.claims.block.interact.tconstruct.molten_gold: OP
+ftbutilities.claims.block.interact.tconstruct.molten_invar: OP
 ftbutilities.claims.block.interact.tconstruct.molten_iridium: OP
 ftbutilities.claims.block.interact.tconstruct.molten_iron: OP
 ftbutilities.claims.block.interact.tconstruct.molten_knightslime: OP
@@ -18196,6 +18063,7 @@ ftbutilities.claims.block.interact.yabba.antibarrel: OP
 ftbutilities.claims.block.interact.yabba.decorative_block: OP
 ftbutilities.claims.block.interact.yabba.item_barrel: OP
 ftbutilities.claims.block.interact.yabba.item_barrel_connector: OP
+ftbutilities.claims.block.interact.zensummoning.altar: OP
 ftbutilities.claims.block.interact.zettaindustries.batterycomputerport: OP
 ftbutilities.claims.block.interact.zettaindustries.batterycontroller: OP
 ftbutilities.claims.block.interact.zettaindustries.batteryelectrode: OP
@@ -22015,7 +21883,9 @@ ftbutilities.claims.item.botaunomy.elven_avatar: ALL
 ftbutilities.claims.item.botaunomy.rod_will: ALL
 ftbutilities.claims.item.botaunomy.rod_work: ALL
 ftbutilities.claims.item.buildinggadgets.buildingtool: ALL
+ftbutilities.claims.item.buildinggadgets.construction_chunk_dense: ALL
 ftbutilities.claims.item.buildinggadgets.constructionblock: ALL
+ftbutilities.claims.item.buildinggadgets.constructionblock_dense: ALL
 ftbutilities.claims.item.buildinggadgets.constructionblockpowder: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpaste: ALL
 ftbutilities.claims.item.buildinggadgets.constructionpastecontainer: ALL
@@ -23447,28 +23317,6 @@ ftbutilities.claims.item.earthworks.wall_wood_shingle_dark_oak: ALL
 ftbutilities.claims.item.earthworks.wall_wood_shingle_jungle: ALL
 ftbutilities.claims.item.earthworks.wall_wood_shingle_oak: ALL
 ftbutilities.claims.item.earthworks.wall_wood_shingle_spruce: ALL
-ftbutilities.claims.item.efab.autocrafting_monitor: ALL
-ftbutilities.claims.item.efab.base: ALL
-ftbutilities.claims.item.efab.boiler: ALL
-ftbutilities.claims.item.efab.crafter: ALL
-ftbutilities.claims.item.efab.gearbox: ALL
-ftbutilities.claims.item.efab.grid: ALL
-ftbutilities.claims.item.efab.manareceptacle: ALL
-ftbutilities.claims.item.efab.monitor: ALL
-ftbutilities.claims.item.efab.pipes: ALL
-ftbutilities.claims.item.efab.power_optimizer: ALL
-ftbutilities.claims.item.efab.processor: ALL
-ftbutilities.claims.item.efab.rfcontrol: ALL
-ftbutilities.claims.item.efab.rfstorage: ALL
-ftbutilities.claims.item.efab.rfstorage_advanced: ALL
-ftbutilities.claims.item.efab.steamengine: ALL
-ftbutilities.claims.item.efab.storage: ALL
-ftbutilities.claims.item.efab.tank2: ALL
-ftbutilities.claims.item.efab.tank: ALL
-ftbutilities.claims.item.efab.upgrade_armory: ALL
-ftbutilities.claims.item.efab.upgrade_digital: ALL
-ftbutilities.claims.item.efab.upgrade_magic: ALL
-ftbutilities.claims.item.efab.upgrade_power: ALL
 ftbutilities.claims.item.embers.adhesive: ALL
 ftbutilities.claims.item.embers.alchemic_waste: ALL
 ftbutilities.claims.item.embers.alchemy_pedestal: ALL
@@ -23479,6 +23327,7 @@ ftbutilities.claims.item.embers.archaic_brick: ALL
 ftbutilities.claims.item.embers.archaic_bricks: ALL
 ftbutilities.claims.item.embers.archaic_circuit: ALL
 ftbutilities.claims.item.embers.archaic_edge: ALL
+ftbutilities.claims.item.embers.archaic_geysir: ALL
 ftbutilities.claims.item.embers.archaic_light: ALL
 ftbutilities.claims.item.embers.archaic_tile: ALL
 ftbutilities.claims.item.embers.ashen_amulet: ALL
@@ -23581,6 +23430,7 @@ ftbutilities.claims.item.embers.flame_barrier: ALL
 ftbutilities.claims.item.embers.fluid_gauge: ALL
 ftbutilities.claims.item.embers.fluid_transfer: ALL
 ftbutilities.claims.item.embers.focal_lens: ALL
+ftbutilities.claims.item.embers.geo_separator: ALL
 ftbutilities.claims.item.embers.glimmer_lamp: ALL
 ftbutilities.claims.item.embers.glimmer_shard: ALL
 ftbutilities.claims.item.embers.grandhammer: ALL
@@ -23665,6 +23515,15 @@ ftbutilities.claims.item.embers.reactor: ALL
 ftbutilities.claims.item.embers.resonating_bell: ALL
 ftbutilities.claims.item.embers.sealed_planks: ALL
 ftbutilities.claims.item.embers.seed: ALL
+ftbutilities.claims.item.embers.seed_aluminum: ALL
+ftbutilities.claims.item.embers.seed_copper: ALL
+ftbutilities.claims.item.embers.seed_dawnstone: ALL
+ftbutilities.claims.item.embers.seed_gold: ALL
+ftbutilities.claims.item.embers.seed_iron: ALL
+ftbutilities.claims.item.embers.seed_lead: ALL
+ftbutilities.claims.item.embers.seed_nickel: ALL
+ftbutilities.claims.item.embers.seed_silver: ALL
+ftbutilities.claims.item.embers.seed_tin: ALL
 ftbutilities.claims.item.embers.shard_ember: ALL
 ftbutilities.claims.item.embers.shifting_scales: ALL
 ftbutilities.claims.item.embers.shovel_aluminum: ALL
@@ -23693,6 +23552,7 @@ ftbutilities.claims.item.embers.stamper: ALL
 ftbutilities.claims.item.embers.stamper_base: ALL
 ftbutilities.claims.item.embers.stirling: ALL
 ftbutilities.claims.item.embers.stone_edge: ALL
+ftbutilities.claims.item.embers.stone_valve: ALL
 ftbutilities.claims.item.embers.superheater: ALL
 ftbutilities.claims.item.embers.sword_aluminum: ALL
 ftbutilities.claims.item.embers.sword_bronze: ALL
@@ -24455,28 +24315,6 @@ ftbutilities.claims.item.extendedcrafting.table_basic: ALL
 ftbutilities.claims.item.extendedcrafting.table_elite: ALL
 ftbutilities.claims.item.extendedcrafting.table_ultimate: ALL
 ftbutilities.claims.item.extendedcrafting.trimmed: ALL
-ftbutilities.claims.item.extrabitmanipulation.bit_wrench: ALL
-ftbutilities.claims.item.extrabitmanipulation.bit_wrench_head: ALL
-ftbutilities.claims.item.extrabitmanipulation.bodypart_template: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_boots: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_boots_iron: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_chestplate: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_chestplate_iron: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_helmet: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_helmet_iron: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_leggings: ALL
-ftbutilities.claims.item.extrabitmanipulation.chiseled_leggings_iron: ALL
-ftbutilities.claims.item.extrabitmanipulation.diamond_nugget: ALL
-ftbutilities.claims.item.extrabitmanipulation.modeling_tool: ALL
-ftbutilities.claims.item.extrabitmanipulation.modeling_tool_head: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_loop: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_loop_head: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_spade_curved: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_spade_curved_head: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_spade_squared: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_spade_squared_head: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_square: ALL
-ftbutilities.claims.item.extrabitmanipulation.sculpting_square_head: ALL
 ftbutilities.claims.item.extracells.certustank: ALL
 ftbutilities.claims.item.extracells.ecbaseblock: ALL
 ftbutilities.claims.item.extracells.fluid.item: ALL
@@ -25078,101 +24916,6 @@ ftbutilities.claims.item.extrautils2.unstableingots: ALL
 ftbutilities.claims.item.extrautils2.user: ALL
 ftbutilities.claims.item.extrautils2.wateringcan: ALL
 ftbutilities.claims.item.extrautils2.wrench: ALL
-ftbutilities.claims.item.factorytech.agitator: ALL
-ftbutilities.claims.item.factorytech.autocrafter: ALL
-ftbutilities.claims.item.factorytech.autominer: ALL
-ftbutilities.claims.item.factorytech.autopuller: ALL
-ftbutilities.claims.item.factorytech.batterygen: ALL
-ftbutilities.claims.item.factorytech.blockbreaker: ALL
-ftbutilities.claims.item.factorytech.blowtorch: ALL
-ftbutilities.claims.item.factorytech.bottomhatch: ALL
-ftbutilities.claims.item.factorytech.bricks: ALL
-ftbutilities.claims.item.factorytech.buffercrate: ALL
-ftbutilities.claims.item.factorytech.bulkmover: ALL
-ftbutilities.claims.item.factorytech.centrifuge: ALL
-ftbutilities.claims.item.factorytech.charger: ALL
-ftbutilities.claims.item.factorytech.circuit_intermediate: ALL
-ftbutilities.claims.item.factorytech.circuitscribe: ALL
-ftbutilities.claims.item.factorytech.compacthopper: ALL
-ftbutilities.claims.item.factorytech.compressor: ALL
-ftbutilities.claims.item.factorytech.conveyor: ALL
-ftbutilities.claims.item.factorytech.core_unfinished: ALL
-ftbutilities.claims.item.factorytech.coregen: ALL
-ftbutilities.claims.item.factorytech.craftstopper: ALL
-ftbutilities.claims.item.factorytech.crate: ALL
-ftbutilities.claims.item.factorytech.crucible: ALL
-ftbutilities.claims.item.factorytech.decocoil: ALL
-ftbutilities.claims.item.factorytech.deepdrill: ALL
-ftbutilities.claims.item.factorytech.disassembler: ALL
-ftbutilities.claims.item.factorytech.disruptor: ALL
-ftbutilities.claims.item.factorytech.electroplater: ALL
-ftbutilities.claims.item.factorytech.elementsword: ALL
-ftbutilities.claims.item.factorytech.elevator: ALL
-ftbutilities.claims.item.factorytech.energizer: ALL
-ftbutilities.claims.item.factorytech.filtermover: ALL
-ftbutilities.claims.item.factorytech.fluiddrill: ALL
-ftbutilities.claims.item.factorytech.fluidpuller: ALL
-ftbutilities.claims.item.factorytech.fluidreader: ALL
-ftbutilities.claims.item.factorytech.fridge: ALL
-ftbutilities.claims.item.factorytech.grindstone: ALL
-ftbutilities.claims.item.factorytech.handbook: ALL
-ftbutilities.claims.item.factorytech.handpump: ALL
-ftbutilities.claims.item.factorytech.hardhat: ALL
-ftbutilities.claims.item.factorytech.hatch: ALL
-ftbutilities.claims.item.factorytech.htfurnace: ALL
-ftbutilities.claims.item.factorytech.ingot: ALL
-ftbutilities.claims.item.factorytech.interceptor: ALL
-ftbutilities.claims.item.factorytech.intermediate: ALL
-ftbutilities.claims.item.factorytech.inventorysensor: ALL
-ftbutilities.claims.item.factorytech.iondisperser: ALL
-ftbutilities.claims.item.factorytech.itempusher: ALL
-ftbutilities.claims.item.factorytech.itemredis: ALL
-ftbutilities.claims.item.factorytech.machinepart: ALL
-ftbutilities.claims.item.factorytech.magcent: ALL
-ftbutilities.claims.item.factorytech.magnetblock: ALL
-ftbutilities.claims.item.factorytech.magnetizer: ALL
-ftbutilities.claims.item.factorytech.metal: ALL
-ftbutilities.claims.item.factorytech.metalcutter: ALL
-ftbutilities.claims.item.factorytech.mined_ore: ALL
-ftbutilities.claims.item.factorytech.mobfan: ALL
-ftbutilities.claims.item.factorytech.ore: ALL
-ftbutilities.claims.item.factorytech.ore_dust: ALL
-ftbutilities.claims.item.factorytech.oreblock: ALL
-ftbutilities.claims.item.factorytech.oredrill: ALL
-ftbutilities.claims.item.factorytech.pipe: ALL
-ftbutilities.claims.item.factorytech.planeshifter: ALL
-ftbutilities.claims.item.factorytech.planter: ALL
-ftbutilities.claims.item.factorytech.potionmixer: ALL
-ftbutilities.claims.item.factorytech.pressuregun: ALL
-ftbutilities.claims.item.factorytech.propfurnace: ALL
-ftbutilities.claims.item.factorytech.pulsecounter: ALL
-ftbutilities.claims.item.factorytech.pulser: ALL
-ftbutilities.claims.item.factorytech.realelevator: ALL
-ftbutilities.claims.item.factorytech.reclaimer: ALL
-ftbutilities.claims.item.factorytech.rednotifier: ALL
-ftbutilities.claims.item.factorytech.redwatcher: ALL
-ftbutilities.claims.item.factorytech.safetyvest: ALL
-ftbutilities.claims.item.factorytech.salvage: ALL
-ftbutilities.claims.item.factorytech.salvagepart: ALL
-ftbutilities.claims.item.factorytech.saw: ALL
-ftbutilities.claims.item.factorytech.scaffold: ALL
-ftbutilities.claims.item.factorytech.sequenceplacer: ALL
-ftbutilities.claims.item.factorytech.sluice: ALL
-ftbutilities.claims.item.factorytech.smokestack: ALL
-ftbutilities.claims.item.factorytech.spawner: ALL
-ftbutilities.claims.item.factorytech.stabilizer: ALL
-ftbutilities.claims.item.factorytech.stackmover: ALL
-ftbutilities.claims.item.factorytech.steeltoeboots: ALL
-ftbutilities.claims.item.factorytech.tank: ALL
-ftbutilities.claims.item.factorytech.tankblock: ALL
-ftbutilities.claims.item.factorytech.temperer: ALL
-ftbutilities.claims.item.factorytech.teslacoil: ALL
-ftbutilities.claims.item.factorytech.tuningfork: ALL
-ftbutilities.claims.item.factorytech.upgrade: ALL
-ftbutilities.claims.item.factorytech.watercollector: ALL
-ftbutilities.claims.item.factorytech.woodcutter: ALL
-ftbutilities.claims.item.factorytech.workpants: ALL
-ftbutilities.claims.item.factorytech.wrench: ALL
 ftbutilities.claims.item.farmingforblockheads.chicken_nest: ALL
 ftbutilities.claims.item.farmingforblockheads.feeding_trough: ALL
 ftbutilities.claims.item.farmingforblockheads.fertilized_farmland_healthy: ALL
@@ -25701,7 +25444,6 @@ ftbutilities.claims.item.guideapi.crossroads-crossroadsmainguide: ALL
 ftbutilities.claims.item.guideapi.crossroads-info_guide: ALL
 ftbutilities.claims.item.guideapi.cyclicmagic-guide: ALL
 ftbutilities.claims.item.guideapi.inventorygenerators-guide_book: ALL
-ftbutilities.claims.item.guideapi.mobtotems-mobtotems_guide: ALL
 ftbutilities.claims.item.guideapi.woot-guide: ALL
 ftbutilities.claims.item.hammercore.manual: ALL
 ftbutilities.claims.item.harvestcraft.agaveitem: ALL
@@ -25751,6 +25493,7 @@ ftbutilities.claims.item.harvestcraft.baconandeggsitem: ALL
 ftbutilities.claims.item.harvestcraft.baconcheeseburgeritem: ALL
 ftbutilities.claims.item.harvestcraft.baconmushroomburgeritem: ALL
 ftbutilities.claims.item.harvestcraft.baconpancakesitem: ALL
+ftbutilities.claims.item.harvestcraft.baconwrappedchiliitem: ALL
 ftbutilities.claims.item.harvestcraft.baconwrappeddatesitem: ALL
 ftbutilities.claims.item.harvestcraft.bakedalaskaitem: ALL
 ftbutilities.claims.item.harvestcraft.bakedbeansitem: ALL
@@ -25775,9 +25518,12 @@ ftbutilities.claims.item.harvestcraft.bangersandmashitem: ALL
 ftbutilities.claims.item.harvestcraft.barleyitem: ALL
 ftbutilities.claims.item.harvestcraft.barleyseeditem: ALL
 ftbutilities.claims.item.harvestcraft.bassrawitem: ALL
+ftbutilities.claims.item.harvestcraft.battenbergitem: ALL
 ftbutilities.claims.item.harvestcraft.batteredsausageitem: ALL
 ftbutilities.claims.item.harvestcraft.batteritem: ALL
+ftbutilities.claims.item.harvestcraft.bbqchickenbiscuititem: ALL
 ftbutilities.claims.item.harvestcraft.bbqchickenpizzaitem: ALL
+ftbutilities.claims.item.harvestcraft.bbqjackfruititem: ALL
 ftbutilities.claims.item.harvestcraft.bbqplatteritem: ALL
 ftbutilities.claims.item.harvestcraft.bbqpotatochipsitem: ALL
 ftbutilities.claims.item.harvestcraft.bbqpulledporkitem: ALL
@@ -25798,6 +25544,7 @@ ftbutilities.claims.item.harvestcraft.beetseeditem: ALL
 ftbutilities.claims.item.harvestcraft.beetsoupitem: ALL
 ftbutilities.claims.item.harvestcraft.bellpepperitem: ALL
 ftbutilities.claims.item.harvestcraft.bellpepperseeditem: ALL
+ftbutilities.claims.item.harvestcraft.bentoboxitem: ALL
 ftbutilities.claims.item.harvestcraft.berrymeringuenestitem: ALL
 ftbutilities.claims.item.harvestcraft.berryvinaigrettesaladitem: ALL
 ftbutilities.claims.item.harvestcraft.bibimbapitem: ALL
@@ -25826,7 +25573,10 @@ ftbutilities.claims.item.harvestcraft.blueberryseeditem: ALL
 ftbutilities.claims.item.harvestcraft.blueberrysmoothieitem: ALL
 ftbutilities.claims.item.harvestcraft.blueberryyogurtitem: ALL
 ftbutilities.claims.item.harvestcraft.boiledeggitem: ALL
+ftbutilities.claims.item.harvestcraft.bolognaitem: ALL
+ftbutilities.claims.item.harvestcraft.bolognasandwichitem: ALL
 ftbutilities.claims.item.harvestcraft.braisedonionsitem: ALL
+ftbutilities.claims.item.harvestcraft.bratwurstitem: ALL
 ftbutilities.claims.item.harvestcraft.breadedporkchopitem: ALL
 ftbutilities.claims.item.harvestcraft.breadfruit_sapling: ALL
 ftbutilities.claims.item.harvestcraft.breadfruititem: ALL
@@ -25845,6 +25595,7 @@ ftbutilities.claims.item.harvestcraft.bulgogiitem: ALL
 ftbutilities.claims.item.harvestcraft.buttercookieitem: ALL
 ftbutilities.claims.item.harvestcraft.butteredpotatoitem: ALL
 ftbutilities.claims.item.harvestcraft.butteritem: ALL
+ftbutilities.claims.item.harvestcraft.buttertartitem: ALL
 ftbutilities.claims.item.harvestcraft.cabbageitem: ALL
 ftbutilities.claims.item.harvestcraft.cabbageseeditem: ALL
 ftbutilities.claims.item.harvestcraft.cactusfruititem: ALL
@@ -25897,6 +25648,7 @@ ftbutilities.claims.item.harvestcraft.cashewchickenitem: ALL
 ftbutilities.claims.item.harvestcraft.cashewitem: ALL
 ftbutilities.claims.item.harvestcraft.cassavaitem: ALL
 ftbutilities.claims.item.harvestcraft.cassavaseeditem: ALL
+ftbutilities.claims.item.harvestcraft.cassouletitem: ALL
 ftbutilities.claims.item.harvestcraft.catfishrawitem: ALL
 ftbutilities.claims.item.harvestcraft.caulifloweritem: ALL
 ftbutilities.claims.item.harvestcraft.cauliflowerseeditem: ALL
@@ -25914,6 +25666,7 @@ ftbutilities.claims.item.harvestcraft.cheddarandsourcreampotatochipsitem: ALL
 ftbutilities.claims.item.harvestcraft.cheeseburgeritem: ALL
 ftbutilities.claims.item.harvestcraft.cheesecake: ALL
 ftbutilities.claims.item.harvestcraft.cheesecakeitem: ALL
+ftbutilities.claims.item.harvestcraft.cheesedanishitem: ALL
 ftbutilities.claims.item.harvestcraft.cheeseitem: ALL
 ftbutilities.claims.item.harvestcraft.cheeseontoastitem: ALL
 ftbutilities.claims.item.harvestcraft.cheesesteakitem: ALL
@@ -25937,8 +25690,10 @@ ftbutilities.claims.item.harvestcraft.chestnut_sapling: ALL
 ftbutilities.claims.item.harvestcraft.chestnutbutteritem: ALL
 ftbutilities.claims.item.harvestcraft.chestnutitem: ALL
 ftbutilities.claims.item.harvestcraft.chickenandwafflesitem: ALL
+ftbutilities.claims.item.harvestcraft.chickenbiscuititem: ALL
 ftbutilities.claims.item.harvestcraft.chickencelerycasseroleitem: ALL
 ftbutilities.claims.item.harvestcraft.chickenchowmeinitem: ALL
+ftbutilities.claims.item.harvestcraft.chickencordonbleuitem: ALL
 ftbutilities.claims.item.harvestcraft.chickencurryitem: ALL
 ftbutilities.claims.item.harvestcraft.chickendinneritem: ALL
 ftbutilities.claims.item.harvestcraft.chickengumboitem: ALL
@@ -25966,6 +25721,7 @@ ftbutilities.claims.item.harvestcraft.chocolatebaconitem: ALL
 ftbutilities.claims.item.harvestcraft.chocolatebaritem: ALL
 ftbutilities.claims.item.harvestcraft.chocolatecaramelfudgeitem: ALL
 ftbutilities.claims.item.harvestcraft.chocolatecherryitem: ALL
+ftbutilities.claims.item.harvestcraft.chocolatecoconutbaritem: ALL
 ftbutilities.claims.item.harvestcraft.chocolatecupcakeitem: ALL
 ftbutilities.claims.item.harvestcraft.chocolatedonutitem: ALL
 ftbutilities.claims.item.harvestcraft.chocolateicecreamitem: ALL
@@ -25983,6 +25739,7 @@ ftbutilities.claims.item.harvestcraft.chorizoitem: ALL
 ftbutilities.claims.item.harvestcraft.chorusfruitsoupitem: ALL
 ftbutilities.claims.item.harvestcraft.cinnamon_sapling: ALL
 ftbutilities.claims.item.harvestcraft.cinnamonappleoatmealitem: ALL
+ftbutilities.claims.item.harvestcraft.cinnamonbreaditem: ALL
 ftbutilities.claims.item.harvestcraft.cinnamonitem: ALL
 ftbutilities.claims.item.harvestcraft.cinnamonrollitem: ALL
 ftbutilities.claims.item.harvestcraft.cinnamonsugardonutitem: ALL
@@ -26021,6 +25778,7 @@ ftbutilities.claims.item.harvestcraft.cookedtofurkeyitem: ALL
 ftbutilities.claims.item.harvestcraft.cookedtofuttonitem: ALL
 ftbutilities.claims.item.harvestcraft.cookiesandmilkitem: ALL
 ftbutilities.claims.item.harvestcraft.cornbreaditem: ALL
+ftbutilities.claims.item.harvestcraft.cornchipsitem: ALL
 ftbutilities.claims.item.harvestcraft.corndogitem: ALL
 ftbutilities.claims.item.harvestcraft.cornedbeefbreakfastitem: ALL
 ftbutilities.claims.item.harvestcraft.cornedbeefhashitem: ALL
@@ -26066,6 +25824,7 @@ ftbutilities.claims.item.harvestcraft.crispyricepuffcerealitem: ALL
 ftbutilities.claims.item.harvestcraft.croissantitem: ALL
 ftbutilities.claims.item.harvestcraft.cucumberitem: ALL
 ftbutilities.claims.item.harvestcraft.cucumbersaladitem: ALL
+ftbutilities.claims.item.harvestcraft.cucumbersandwichitem: ALL
 ftbutilities.claims.item.harvestcraft.cucumberseeditem: ALL
 ftbutilities.claims.item.harvestcraft.cucumbersoupitem: ALL
 ftbutilities.claims.item.harvestcraft.curryitem: ALL
@@ -26075,6 +25834,8 @@ ftbutilities.claims.item.harvestcraft.currypowderitem: ALL
 ftbutilities.claims.item.harvestcraft.custarditem: ALL
 ftbutilities.claims.item.harvestcraft.cuttingboarditem: ALL
 ftbutilities.claims.item.harvestcraft.damperitem: ALL
+ftbutilities.claims.item.harvestcraft.dandelionsaladitem: ALL
+ftbutilities.claims.item.harvestcraft.dandelionteaitem: ALL
 ftbutilities.claims.item.harvestcraft.dangoitem: ALL
 ftbutilities.claims.item.harvestcraft.date_sapling: ALL
 ftbutilities.claims.item.harvestcraft.dateitem: ALL
@@ -26146,8 +25907,10 @@ ftbutilities.claims.item.harvestcraft.fortunecookieitem: ALL
 ftbutilities.claims.item.harvestcraft.frenchtoastitem: ALL
 ftbutilities.claims.item.harvestcraft.freshmilkitem: ALL
 ftbutilities.claims.item.harvestcraft.freshwateritem: ALL
+ftbutilities.claims.item.harvestcraft.friedbolognasandwichitem: ALL
 ftbutilities.claims.item.harvestcraft.friedchickenitem: ALL
 ftbutilities.claims.item.harvestcraft.friedeggitem: ALL
+ftbutilities.claims.item.harvestcraft.friedfeastitem: ALL
 ftbutilities.claims.item.harvestcraft.friedgreentomatoesitem: ALL
 ftbutilities.claims.item.harvestcraft.friedonionsitem: ALL
 ftbutilities.claims.item.harvestcraft.friedpecanokraitem: ALL
@@ -26159,6 +25922,7 @@ ftbutilities.claims.item.harvestcraft.frograwitem: ALL
 ftbutilities.claims.item.harvestcraft.frosteddonutitem: ALL
 ftbutilities.claims.item.harvestcraft.frostgarden: ALL
 ftbutilities.claims.item.harvestcraft.fruitbaititem: ALL
+ftbutilities.claims.item.harvestcraft.fruitcakeitem: ALL
 ftbutilities.claims.item.harvestcraft.fruitcreamfestivalbreaditem: ALL
 ftbutilities.claims.item.harvestcraft.fruitcrumbleitem: ALL
 ftbutilities.claims.item.harvestcraft.fruitpunchitem: ALL
@@ -26219,6 +25983,7 @@ ftbutilities.claims.item.harvestcraft.grapeseeditem: ALL
 ftbutilities.claims.item.harvestcraft.grapesmoothieitem: ALL
 ftbutilities.claims.item.harvestcraft.grapesodaitem: ALL
 ftbutilities.claims.item.harvestcraft.grapeyogurtitem: ALL
+ftbutilities.claims.item.harvestcraft.gravlaxitem: ALL
 ftbutilities.claims.item.harvestcraft.gravyitem: ALL
 ftbutilities.claims.item.harvestcraft.greenbeancasseroleitem: ALL
 ftbutilities.claims.item.harvestcraft.greeneggsandhamitem: ALL
@@ -26255,6 +26020,7 @@ ftbutilities.claims.item.harvestcraft.guavaitem: ALL
 ftbutilities.claims.item.harvestcraft.guisoitem: ALL
 ftbutilities.claims.item.harvestcraft.gumboitem: ALL
 ftbutilities.claims.item.harvestcraft.gummybearsitem: ALL
+ftbutilities.claims.item.harvestcraft.gyudonitem: ALL
 ftbutilities.claims.item.harvestcraft.haggisitem: ALL
 ftbutilities.claims.item.harvestcraft.hamandcheesesandwichitem: ALL
 ftbutilities.claims.item.harvestcraft.hamandpineapplepizzaitem: ALL
@@ -26290,6 +26056,7 @@ ftbutilities.claims.item.harvestcraft.honeysandwichitem: ALL
 ftbutilities.claims.item.harvestcraft.honeysoyribsitem: ALL
 ftbutilities.claims.item.harvestcraft.hotandsoursoupitem: ALL
 ftbutilities.claims.item.harvestcraft.hotchocolateitem: ALL
+ftbutilities.claims.item.harvestcraft.hotcocoaitem: ALL
 ftbutilities.claims.item.harvestcraft.hotdishcasseroleitem: ALL
 ftbutilities.claims.item.harvestcraft.hotdogitem: ALL
 ftbutilities.claims.item.harvestcraft.hotsauceitem: ALL
@@ -26299,6 +26066,8 @@ ftbutilities.claims.item.harvestcraft.huckleberryseeditem: ALL
 ftbutilities.claims.item.harvestcraft.hummusitem: ALL
 ftbutilities.claims.item.harvestcraft.hushpuppiesitem: ALL
 ftbutilities.claims.item.harvestcraft.icecreamitem: ALL
+ftbutilities.claims.item.harvestcraft.imagawayakiitem: ALL
+ftbutilities.claims.item.harvestcraft.imitationcrabsticksitem: ALL
 ftbutilities.claims.item.harvestcraft.ironbrewitem: ALL
 ftbutilities.claims.item.harvestcraft.jackfruit_sapling: ALL
 ftbutilities.claims.item.harvestcraft.jackfruititem: ALL
@@ -26374,6 +26143,7 @@ ftbutilities.claims.item.harvestcraft.liverandonionsitem: ALL
 ftbutilities.claims.item.harvestcraft.loadedbakedpotatoitem: ALL
 ftbutilities.claims.item.harvestcraft.lychee_sapling: ALL
 ftbutilities.claims.item.harvestcraft.lycheeitem: ALL
+ftbutilities.claims.item.harvestcraft.lycheeteaitem: ALL
 ftbutilities.claims.item.harvestcraft.mango_sapling: ALL
 ftbutilities.claims.item.harvestcraft.mangochutneyitem: ALL
 ftbutilities.claims.item.harvestcraft.mangoitem: ALL
@@ -26392,6 +26162,7 @@ ftbutilities.claims.item.harvestcraft.maplesyruppancakesitem: ALL
 ftbutilities.claims.item.harvestcraft.maplesyrupwafflesitem: ALL
 ftbutilities.claims.item.harvestcraft.marinatedcucumbersitem: ALL
 ftbutilities.claims.item.harvestcraft.market: ALL
+ftbutilities.claims.item.harvestcraft.marshmellowchicksitem: ALL
 ftbutilities.claims.item.harvestcraft.marshmellowsitem: ALL
 ftbutilities.claims.item.harvestcraft.marzipanitem: ALL
 ftbutilities.claims.item.harvestcraft.mashedpotatoeschickenbiscuititem: ALL
@@ -26422,11 +26193,14 @@ ftbutilities.claims.item.harvestcraft.mincepieitem: ALL
 ftbutilities.claims.item.harvestcraft.minerstewitem: ALL
 ftbutilities.claims.item.harvestcraft.mintchocolatechipicecreamitem: ALL
 ftbutilities.claims.item.harvestcraft.mintcupcakeitem: ALL
+ftbutilities.claims.item.harvestcraft.misopasteitem: ALL
 ftbutilities.claims.item.harvestcraft.misosoupitem: ALL
 ftbutilities.claims.item.harvestcraft.mixedsaladitem: ALL
 ftbutilities.claims.item.harvestcraft.mixingbowlitem: ALL
 ftbutilities.claims.item.harvestcraft.mobsoupitem: ALL
 ftbutilities.claims.item.harvestcraft.mochaicecreamitem: ALL
+ftbutilities.claims.item.harvestcraft.mochicakeitem: ALL
+ftbutilities.claims.item.harvestcraft.mochidessertitem: ALL
 ftbutilities.claims.item.harvestcraft.mochiitem: ALL
 ftbutilities.claims.item.harvestcraft.monsterfrieddumplingsitem: ALL
 ftbutilities.claims.item.harvestcraft.montecristosandwichitem: ALL
@@ -26436,6 +26210,8 @@ ftbutilities.claims.item.harvestcraft.mudfishrawitem: ALL
 ftbutilities.claims.item.harvestcraft.mulberryitem: ALL
 ftbutilities.claims.item.harvestcraft.mulberryseeditem: ALL
 ftbutilities.claims.item.harvestcraft.museliitem: ALL
+ftbutilities.claims.item.harvestcraft.mushroomketchupitem: ALL
+ftbutilities.claims.item.harvestcraft.mushroomketchupomeletitem: ALL
 ftbutilities.claims.item.harvestcraft.mushroomlasagnaitem: ALL
 ftbutilities.claims.item.harvestcraft.mushroomrisottoitem: ALL
 ftbutilities.claims.item.harvestcraft.mushroomsteakitem: ALL
@@ -26444,6 +26220,7 @@ ftbutilities.claims.item.harvestcraft.musselrawitem: ALL
 ftbutilities.claims.item.harvestcraft.mustarditem: ALL
 ftbutilities.claims.item.harvestcraft.mustardseeditem: ALL
 ftbutilities.claims.item.harvestcraft.mustardseedsitem: ALL
+ftbutilities.claims.item.harvestcraft.musubiitem: ALL
 ftbutilities.claims.item.harvestcraft.naanitem: ALL
 ftbutilities.claims.item.harvestcraft.nachoesitem: ALL
 ftbutilities.claims.item.harvestcraft.neapolitanicecreamitem: ALL
@@ -26577,6 +26354,7 @@ ftbutilities.claims.item.harvestcraft.peanutbuttercupitem: ALL
 ftbutilities.claims.item.harvestcraft.peanutbutteritem: ALL
 ftbutilities.claims.item.harvestcraft.peanutitem: ALL
 ftbutilities.claims.item.harvestcraft.peanutseeditem: ALL
+ftbutilities.claims.item.harvestcraft.peanutsoupitem: ALL
 ftbutilities.claims.item.harvestcraft.pear_sapling: ALL
 ftbutilities.claims.item.harvestcraft.pearitem: ALL
 ftbutilities.claims.item.harvestcraft.pearjellyitem: ALL
@@ -26670,6 +26448,7 @@ ftbutilities.claims.item.harvestcraft.pumpkincheesecakeitem: ALL
 ftbutilities.claims.item.harvestcraft.pumpkinmuffinitem: ALL
 ftbutilities.claims.item.harvestcraft.pumpkinoatsconesitem: ALL
 ftbutilities.claims.item.harvestcraft.pumpkinsoupitem: ALL
+ftbutilities.claims.item.harvestcraft.pumpkinspicelatteitem: ALL
 ftbutilities.claims.item.harvestcraft.pumpkinyogurtitem: ALL
 ftbutilities.claims.item.harvestcraft.queenbeeitem: ALL
 ftbutilities.claims.item.harvestcraft.quesadillaitem: ALL
@@ -26689,6 +26468,7 @@ ftbutilities.claims.item.harvestcraft.raspberryitem: ALL
 ftbutilities.claims.item.harvestcraft.raspberryjellyitem: ALL
 ftbutilities.claims.item.harvestcraft.raspberryjellysandwichitem: ALL
 ftbutilities.claims.item.harvestcraft.raspberryjuiceitem: ALL
+ftbutilities.claims.item.harvestcraft.raspberrymilkshakeitem: ALL
 ftbutilities.claims.item.harvestcraft.raspberrypieitem: ALL
 ftbutilities.claims.item.harvestcraft.raspberryseeditem: ALL
 ftbutilities.claims.item.harvestcraft.raspberrysmoothieitem: ALL
@@ -26712,13 +26492,16 @@ ftbutilities.claims.item.harvestcraft.rhubarbitem: ALL
 ftbutilities.claims.item.harvestcraft.rhubarbseeditem: ALL
 ftbutilities.claims.item.harvestcraft.ricecakeitem: ALL
 ftbutilities.claims.item.harvestcraft.riceitem: ALL
+ftbutilities.claims.item.harvestcraft.ricepuddingitem: ALL
 ftbutilities.claims.item.harvestcraft.riceseeditem: ALL
 ftbutilities.claims.item.harvestcraft.ricesoupitem: ALL
+ftbutilities.claims.item.harvestcraft.rivermudcakeitem: ALL
 ftbutilities.claims.item.harvestcraft.roastchickenitem: ALL
 ftbutilities.claims.item.harvestcraft.roastedchestnutitem: ALL
 ftbutilities.claims.item.harvestcraft.roastedpumpkinseedsitem: ALL
 ftbutilities.claims.item.harvestcraft.roastedrootveggiemedleyitem: ALL
 ftbutilities.claims.item.harvestcraft.roastpotatoesitem: ALL
+ftbutilities.claims.item.harvestcraft.rootbeerfloatitem: ALL
 ftbutilities.claims.item.harvestcraft.rootbeersodaitem: ALL
 ftbutilities.claims.item.harvestcraft.rosepetalteaitem: ALL
 ftbutilities.claims.item.harvestcraft.rouxitem: ALL
@@ -26729,6 +26512,7 @@ ftbutilities.claims.item.harvestcraft.ryeitem: ALL
 ftbutilities.claims.item.harvestcraft.ryeseeditem: ALL
 ftbutilities.claims.item.harvestcraft.saladdressingitem: ALL
 ftbutilities.claims.item.harvestcraft.salisburysteakitem: ALL
+ftbutilities.claims.item.harvestcraft.salmononigiriitem: ALL
 ftbutilities.claims.item.harvestcraft.salmonpattiesitem: ALL
 ftbutilities.claims.item.harvestcraft.salsaitem: ALL
 ftbutilities.claims.item.harvestcraft.saltedcaramelitem: ALL
@@ -26748,9 +26532,11 @@ ftbutilities.claims.item.harvestcraft.scallionitem: ALL
 ftbutilities.claims.item.harvestcraft.scallionseeditem: ALL
 ftbutilities.claims.item.harvestcraft.scallopcookeditem: ALL
 ftbutilities.claims.item.harvestcraft.scalloprawitem: ALL
+ftbutilities.claims.item.harvestcraft.schnitzelitem: ALL
 ftbutilities.claims.item.harvestcraft.scrambledeggitem: ALL
 ftbutilities.claims.item.harvestcraft.seaweeditem: ALL
 ftbutilities.claims.item.harvestcraft.seaweedseeditem: ALL
+ftbutilities.claims.item.harvestcraft.seedenergygelitem: ALL
 ftbutilities.claims.item.harvestcraft.seedsoupitem: ALL
 ftbutilities.claims.item.harvestcraft.sesameballitem: ALL
 ftbutilities.claims.item.harvestcraft.sesameoilitem: ALL
@@ -26764,10 +26550,12 @@ ftbutilities.claims.item.harvestcraft.shrimpcocktailitem: ALL
 ftbutilities.claims.item.harvestcraft.shrimpcookeditem: ALL
 ftbutilities.claims.item.harvestcraft.shrimpokrahushpuppiesitem: ALL
 ftbutilities.claims.item.harvestcraft.shrimprawitem: ALL
+ftbutilities.claims.item.harvestcraft.shrimptemperaitem: ALL
 ftbutilities.claims.item.harvestcraft.silkentofuitem: ALL
 ftbutilities.claims.item.harvestcraft.sisalitem: ALL
 ftbutilities.claims.item.harvestcraft.sisalseeditem: ALL
 ftbutilities.claims.item.harvestcraft.skilletitem: ALL
+ftbutilities.claims.item.harvestcraft.slawdogitem: ALL
 ftbutilities.claims.item.harvestcraft.slimegummiesitem: ALL
 ftbutilities.claims.item.harvestcraft.slimepieitem: ALL
 ftbutilities.claims.item.harvestcraft.smoresitem: ALL
@@ -26833,6 +26621,7 @@ ftbutilities.claims.item.harvestcraft.strawberrysaladitem: ALL
 ftbutilities.claims.item.harvestcraft.strawberryseeditem: ALL
 ftbutilities.claims.item.harvestcraft.strawberrysmoothieitem: ALL
 ftbutilities.claims.item.harvestcraft.strawberrysodaitem: ALL
+ftbutilities.claims.item.harvestcraft.strawberrysouffleitem: ALL
 ftbutilities.claims.item.harvestcraft.strawberryyogurtitem: ALL
 ftbutilities.claims.item.harvestcraft.stuffedchilipeppersitem: ALL
 ftbutilities.claims.item.harvestcraft.stuffedduckitem: ALL
@@ -26845,6 +26634,7 @@ ftbutilities.claims.item.harvestcraft.succotashitem: ALL
 ftbutilities.claims.item.harvestcraft.sugarcookieitem: ALL
 ftbutilities.claims.item.harvestcraft.summerradishsaladitem: ALL
 ftbutilities.claims.item.harvestcraft.summersquashwithradishitem: ALL
+ftbutilities.claims.item.harvestcraft.sundayhighteaitem: ALL
 ftbutilities.claims.item.harvestcraft.sundayroastitem: ALL
 ftbutilities.claims.item.harvestcraft.sunflowerbroccolisaladitem: ALL
 ftbutilities.claims.item.harvestcraft.sunflowerseedsitem: ALL
@@ -26865,6 +26655,7 @@ ftbutilities.claims.item.harvestcraft.sweetteaitem: ALL
 ftbutilities.claims.item.harvestcraft.szechuaneggplantitem: ALL
 ftbutilities.claims.item.harvestcraft.tacoitem: ALL
 ftbutilities.claims.item.harvestcraft.taffyitem: ALL
+ftbutilities.claims.item.harvestcraft.taiyakiitem: ALL
 ftbutilities.claims.item.harvestcraft.takoyakiitem: ALL
 ftbutilities.claims.item.harvestcraft.tamarind_sapling: ALL
 ftbutilities.claims.item.harvestcraft.tamarinditem: ALL
@@ -26879,6 +26670,7 @@ ftbutilities.claims.item.harvestcraft.thankfuldinneritem: ALL
 ftbutilities.claims.item.harvestcraft.theatreboxitem: ALL
 ftbutilities.claims.item.harvestcraft.threebeansaladitem: ALL
 ftbutilities.claims.item.harvestcraft.tilapiarawitem: ALL
+ftbutilities.claims.item.harvestcraft.timpanoitem: ALL
 ftbutilities.claims.item.harvestcraft.timtamitem: ALL
 ftbutilities.claims.item.harvestcraft.tiropitaitem: ALL
 ftbutilities.claims.item.harvestcraft.toadintheholeitem: ALL
@@ -26897,6 +26689,7 @@ ftbutilities.claims.item.harvestcraft.trailmixitem: ALL
 ftbutilities.claims.item.harvestcraft.tropicalgarden: ALL
 ftbutilities.claims.item.harvestcraft.troutrawitem: ALL
 ftbutilities.claims.item.harvestcraft.tunafishsandwichitem: ALL
+ftbutilities.claims.item.harvestcraft.tunaonigiriitem: ALL
 ftbutilities.claims.item.harvestcraft.tunapotatoitem: ALL
 ftbutilities.claims.item.harvestcraft.tunarawitem: ALL
 ftbutilities.claims.item.harvestcraft.tunasaladitem: ALL
@@ -26910,6 +26703,7 @@ ftbutilities.claims.item.harvestcraft.turtlecookeditem: ALL
 ftbutilities.claims.item.harvestcraft.turtlerawitem: ALL
 ftbutilities.claims.item.harvestcraft.vanillabean_sapling: ALL
 ftbutilities.claims.item.harvestcraft.vanillabeanitem: ALL
+ftbutilities.claims.item.harvestcraft.vanillaconchasbreaditem: ALL
 ftbutilities.claims.item.harvestcraft.vanillacupcakeitem: ALL
 ftbutilities.claims.item.harvestcraft.vanillaicecreamitem: ALL
 ftbutilities.claims.item.harvestcraft.vanillaitem: ALL
@@ -27243,6 +27037,7 @@ ftbutilities.claims.item.industrialforegoing.artificial_dye: ALL
 ftbutilities.claims.item.industrialforegoing.biofuel_generator: ALL
 ftbutilities.claims.item.industrialforegoing.bioreactor: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_controller: ALL
+ftbutilities.claims.item.industrialforegoing.black_hole_controller_reworked: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_label: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_tank: ALL
 ftbutilities.claims.item.industrialforegoing.black_hole_unit: ALL
@@ -27484,6 +27279,7 @@ ftbutilities.claims.item.jaopca.block_crystalclustercobalt: ALL
 ftbutilities.claims.item.jaopca.block_crystalclustercoldiron: ALL
 ftbutilities.claims.item.jaopca.block_crystalclustercrystal: ALL
 ftbutilities.claims.item.jaopca.block_crystalclusterdarkiron: ALL
+ftbutilities.claims.item.jaopca.block_crystalclusterdesh: ALL
 ftbutilities.claims.item.jaopca.block_crystalclusterdilithium: ALL
 ftbutilities.claims.item.jaopca.block_crystalclusterdraconium: ALL
 ftbutilities.claims.item.jaopca.block_crystalclustergalite: ALL
@@ -27591,6 +27387,7 @@ ftbutilities.claims.item.jaopca.block_fencecoralium: ALL
 ftbutilities.claims.item.jaopca.block_fencecrystal: ALL
 ftbutilities.claims.item.jaopca.block_fencedark: ALL
 ftbutilities.claims.item.jaopca.block_fencedarkiron: ALL
+ftbutilities.claims.item.jaopca.block_fencedesh: ALL
 ftbutilities.claims.item.jaopca.block_fencediamond: ALL
 ftbutilities.claims.item.jaopca.block_fencedilithium: ALL
 ftbutilities.claims.item.jaopca.block_fencedimensionalshard: ALL
@@ -27686,6 +27483,7 @@ ftbutilities.claims.item.jaopca.block_glasshardenedcobalt: ALL
 ftbutilities.claims.item.jaopca.block_glasshardenedcoldiron: ALL
 ftbutilities.claims.item.jaopca.block_glasshardenedcrystal: ALL
 ftbutilities.claims.item.jaopca.block_glasshardeneddarkiron: ALL
+ftbutilities.claims.item.jaopca.block_glasshardeneddesh: ALL
 ftbutilities.claims.item.jaopca.block_glasshardeneddilithium: ALL
 ftbutilities.claims.item.jaopca.block_glasshardeneddraconium: ALL
 ftbutilities.claims.item.jaopca.block_glasshardenedgalite: ALL
@@ -27826,6 +27624,7 @@ ftbutilities.claims.item.jaopca.item_clumpcobalt: ALL
 ftbutilities.claims.item.jaopca.item_clumpcoldiron: ALL
 ftbutilities.claims.item.jaopca.item_clumpcrystal: ALL
 ftbutilities.claims.item.jaopca.item_clumpdarkiron: ALL
+ftbutilities.claims.item.jaopca.item_clumpdesh: ALL
 ftbutilities.claims.item.jaopca.item_clumpdilithium: ALL
 ftbutilities.claims.item.jaopca.item_clumpdraconium: ALL
 ftbutilities.claims.item.jaopca.item_clumpgalite: ALL
@@ -27869,6 +27668,7 @@ ftbutilities.claims.item.jaopca.item_coincobalt: ALL
 ftbutilities.claims.item.jaopca.item_coincoldiron: ALL
 ftbutilities.claims.item.jaopca.item_coincrystal: ALL
 ftbutilities.claims.item.jaopca.item_coindarkiron: ALL
+ftbutilities.claims.item.jaopca.item_coindesh: ALL
 ftbutilities.claims.item.jaopca.item_coindilithium: ALL
 ftbutilities.claims.item.jaopca.item_coindraconium: ALL
 ftbutilities.claims.item.jaopca.item_coingalite: ALL
@@ -27900,6 +27700,7 @@ ftbutilities.claims.item.jaopca.item_crushedcarbon: ALL
 ftbutilities.claims.item.jaopca.item_crushedcobalt: ALL
 ftbutilities.claims.item.jaopca.item_crushedcrystal: ALL
 ftbutilities.claims.item.jaopca.item_crusheddarkiron: ALL
+ftbutilities.claims.item.jaopca.item_crusheddesh: ALL
 ftbutilities.claims.item.jaopca.item_crusheddilithium: ALL
 ftbutilities.claims.item.jaopca.item_crusheddraconium: ALL
 ftbutilities.claims.item.jaopca.item_crushedgalite: ALL
@@ -27918,6 +27719,7 @@ ftbutilities.claims.item.jaopca.item_crushedpurifiedcarbon: ALL
 ftbutilities.claims.item.jaopca.item_crushedpurifiedcobalt: ALL
 ftbutilities.claims.item.jaopca.item_crushedpurifiedcrystal: ALL
 ftbutilities.claims.item.jaopca.item_crushedpurifieddarkiron: ALL
+ftbutilities.claims.item.jaopca.item_crushedpurifieddesh: ALL
 ftbutilities.claims.item.jaopca.item_crushedpurifieddilithium: ALL
 ftbutilities.claims.item.jaopca.item_crushedpurifieddraconium: ALL
 ftbutilities.claims.item.jaopca.item_crushedpurifiedgalite: ALL
@@ -27948,6 +27750,7 @@ ftbutilities.claims.item.jaopca.item_crystalabysscobalt: ALL
 ftbutilities.claims.item.jaopca.item_crystalabysscoldiron: ALL
 ftbutilities.claims.item.jaopca.item_crystalabysscrystal: ALL
 ftbutilities.claims.item.jaopca.item_crystalabyssdarkiron: ALL
+ftbutilities.claims.item.jaopca.item_crystalabyssdesh: ALL
 ftbutilities.claims.item.jaopca.item_crystalabyssdilithium: ALL
 ftbutilities.claims.item.jaopca.item_crystalabyssdraconium: ALL
 ftbutilities.claims.item.jaopca.item_crystalabyssgalite: ALL
@@ -27990,6 +27793,7 @@ ftbutilities.claims.item.jaopca.item_crystalcobalt: ALL
 ftbutilities.claims.item.jaopca.item_crystalcoldiron: ALL
 ftbutilities.claims.item.jaopca.item_crystalcrystal: ALL
 ftbutilities.claims.item.jaopca.item_crystaldarkiron: ALL
+ftbutilities.claims.item.jaopca.item_crystaldesh: ALL
 ftbutilities.claims.item.jaopca.item_crystaldilithium: ALL
 ftbutilities.claims.item.jaopca.item_crystaldraconium: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentadamantine: ALL
@@ -28005,6 +27809,7 @@ ftbutilities.claims.item.jaopca.item_crystalfragmentcobalt: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentcoldiron: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentcrystal: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentdarkiron: ALL
+ftbutilities.claims.item.jaopca.item_crystalfragmentdesh: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentdilithium: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentdraconium: ALL
 ftbutilities.claims.item.jaopca.item_crystalfragmentgalite: ALL
@@ -28058,6 +27863,7 @@ ftbutilities.claims.item.jaopca.item_crystalshardcobalt: ALL
 ftbutilities.claims.item.jaopca.item_crystalshardcoldiron: ALL
 ftbutilities.claims.item.jaopca.item_crystalshardcrystal: ALL
 ftbutilities.claims.item.jaopca.item_crystalsharddarkiron: ALL
+ftbutilities.claims.item.jaopca.item_crystalsharddesh: ALL
 ftbutilities.claims.item.jaopca.item_crystalsharddilithium: ALL
 ftbutilities.claims.item.jaopca.item_crystalsharddraconium: ALL
 ftbutilities.claims.item.jaopca.item_crystalshardgalite: ALL
@@ -28119,6 +27925,7 @@ ftbutilities.claims.item.jaopca.item_dustcoral: ALL
 ftbutilities.claims.item.jaopca.item_dustcoralium: ALL
 ftbutilities.claims.item.jaopca.item_dustcrystal: ALL
 ftbutilities.claims.item.jaopca.item_dustdarkiron: ALL
+ftbutilities.claims.item.jaopca.item_dustdesh: ALL
 ftbutilities.claims.item.jaopca.item_dustdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtyabyssalnite: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtyadamantine: ALL
@@ -28137,6 +27944,7 @@ ftbutilities.claims.item.jaopca.item_dustdirtycobalt: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtycoldiron: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtycrystal: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtydarkiron: ALL
+ftbutilities.claims.item.jaopca.item_dustdirtydesh: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtydilithium: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtydraconium: ALL
 ftbutilities.claims.item.jaopca.item_dustdirtygalite: ALL
@@ -28227,6 +28035,7 @@ ftbutilities.claims.item.jaopca.item_dustsmallcoralium: ALL
 ftbutilities.claims.item.jaopca.item_dustsmallcrystal: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalldark: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalldarkiron: ALL
+ftbutilities.claims.item.jaopca.item_dustsmalldesh: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalldilithium: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalldimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_dustsmalldraconium: ALL
@@ -28328,6 +28137,7 @@ ftbutilities.claims.item.jaopca.item_dusttinycoralium: ALL
 ftbutilities.claims.item.jaopca.item_dusttinycrystal: ALL
 ftbutilities.claims.item.jaopca.item_dusttinydark: ALL
 ftbutilities.claims.item.jaopca.item_dusttinydarkiron: ALL
+ftbutilities.claims.item.jaopca.item_dusttinydesh: ALL
 ftbutilities.claims.item.jaopca.item_dusttinydilithium: ALL
 ftbutilities.claims.item.jaopca.item_dusttinydimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_dusttinydraconium: ALL
@@ -28420,6 +28230,7 @@ ftbutilities.claims.item.jaopca.item_gearcoral: ALL
 ftbutilities.claims.item.jaopca.item_gearcoralium: ALL
 ftbutilities.claims.item.jaopca.item_gearcrystal: ALL
 ftbutilities.claims.item.jaopca.item_geardarkiron: ALL
+ftbutilities.claims.item.jaopca.item_geardesh: ALL
 ftbutilities.claims.item.jaopca.item_geardilithium: ALL
 ftbutilities.claims.item.jaopca.item_geardimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_geardraconium: ALL
@@ -28485,6 +28296,7 @@ ftbutilities.claims.item.jaopca.item_nuggetcoralium: ALL
 ftbutilities.claims.item.jaopca.item_nuggetcrystal: ALL
 ftbutilities.claims.item.jaopca.item_nuggetdark: ALL
 ftbutilities.claims.item.jaopca.item_nuggetdarkiron: ALL
+ftbutilities.claims.item.jaopca.item_nuggetdesh: ALL
 ftbutilities.claims.item.jaopca.item_nuggetdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_nuggetenderbiotite: ALL
 ftbutilities.claims.item.jaopca.item_nuggetgreendiamond: ALL
@@ -28560,6 +28372,7 @@ ftbutilities.claims.item.jaopca.item_platedensecoralium: ALL
 ftbutilities.claims.item.jaopca.item_platedensecrystal: ALL
 ftbutilities.claims.item.jaopca.item_platedensedark: ALL
 ftbutilities.claims.item.jaopca.item_platedensedarkiron: ALL
+ftbutilities.claims.item.jaopca.item_platedensedesh: ALL
 ftbutilities.claims.item.jaopca.item_platedensediamond: ALL
 ftbutilities.claims.item.jaopca.item_platedensedilithium: ALL
 ftbutilities.claims.item.jaopca.item_platedensedimensionalshard: ALL
@@ -28620,6 +28433,7 @@ ftbutilities.claims.item.jaopca.item_platedensewhitegem: ALL
 ftbutilities.claims.item.jaopca.item_platedenseyellorium: ALL
 ftbutilities.claims.item.jaopca.item_platedenseyellowdiamond: ALL
 ftbutilities.claims.item.jaopca.item_platedensezircon: ALL
+ftbutilities.claims.item.jaopca.item_platedesh: ALL
 ftbutilities.claims.item.jaopca.item_platedilithium: ALL
 ftbutilities.claims.item.jaopca.item_platedimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_platedraconium: ALL
@@ -28687,6 +28501,7 @@ ftbutilities.claims.item.jaopca.item_shardcobalt: ALL
 ftbutilities.claims.item.jaopca.item_shardcoldiron: ALL
 ftbutilities.claims.item.jaopca.item_shardcrystal: ALL
 ftbutilities.claims.item.jaopca.item_sharddarkiron: ALL
+ftbutilities.claims.item.jaopca.item_sharddesh: ALL
 ftbutilities.claims.item.jaopca.item_sharddilithium: ALL
 ftbutilities.claims.item.jaopca.item_sharddraconium: ALL
 ftbutilities.claims.item.jaopca.item_shardgalite: ALL
@@ -28773,6 +28588,7 @@ ftbutilities.claims.item.jaopca.item_stickcoralium: ALL
 ftbutilities.claims.item.jaopca.item_stickcrystal: ALL
 ftbutilities.claims.item.jaopca.item_stickdark: ALL
 ftbutilities.claims.item.jaopca.item_stickdarkiron: ALL
+ftbutilities.claims.item.jaopca.item_stickdesh: ALL
 ftbutilities.claims.item.jaopca.item_stickdilithium: ALL
 ftbutilities.claims.item.jaopca.item_stickdimensionalshard: ALL
 ftbutilities.claims.item.jaopca.item_stickdraconium: ALL
@@ -29418,13 +29234,6 @@ ftbutilities.claims.item.mob_grinding_utils.tank: ALL
 ftbutilities.claims.item.mob_grinding_utils.tank_sink: ALL
 ftbutilities.claims.item.mob_grinding_utils.wither_muffler: ALL
 ftbutilities.claims.item.mob_grinding_utils.xp_tap: ALL
-ftbutilities.claims.item.mobtotems.carving_knife: ALL
-ftbutilities.claims.item.mobtotems.incense_kindling_box: ALL
-ftbutilities.claims.item.mobtotems.offering_box: ALL
-ftbutilities.claims.item.mobtotems.sacred_light: ALL
-ftbutilities.claims.item.mobtotems.totem_wood: ALL
-ftbutilities.claims.item.mobtotems.totemic_focus: ALL
-ftbutilities.claims.item.mobtotems.wolf_totem_bauble: ALL
 ftbutilities.claims.item.modernmetals.aluminum: ALL
 ftbutilities.claims.item.modernmetals.aluminum_arrow: ALL
 ftbutilities.claims.item.modernmetals.aluminum_axe: ALL
@@ -30312,11 +30121,6 @@ ftbutilities.claims.item.modularmachinery.blockoutputbus: ALL
 ftbutilities.claims.item.modularmachinery.itemblueprint: ALL
 ftbutilities.claims.item.modularmachinery.itemconstructtool: ALL
 ftbutilities.claims.item.modularmachinery.itemmodularium: ALL
-ftbutilities.claims.item.morphtool.tool: ALL
-ftbutilities.claims.item.multistorage.ender_bag: ALL
-ftbutilities.claims.item.multistorage.ender_chest: ALL
-ftbutilities.claims.item.multistorage.stone_storage: ALL
-ftbutilities.claims.item.multistorage.vault: ALL
 ftbutilities.claims.item.mysticalagradditions.awakened_draconium_crop: ALL
 ftbutilities.claims.item.mysticalagradditions.awakened_draconium_essence: ALL
 ftbutilities.claims.item.mysticalagradditions.awakened_draconium_seeds: ALL
@@ -31084,16 +30888,21 @@ ftbutilities.claims.item.naturesaura.animal_spawner: ALL
 ftbutilities.claims.item.naturesaura.aura_bottle: ALL
 ftbutilities.claims.item.naturesaura.aura_cache: ALL
 ftbutilities.claims.item.naturesaura.aura_detector: ALL
+ftbutilities.claims.item.naturesaura.aura_trove: ALL
 ftbutilities.claims.item.naturesaura.auto_crafter: ALL
 ftbutilities.claims.item.naturesaura.birth_spirit: ALL
 ftbutilities.claims.item.naturesaura.bottle_two_the_rebottling: ALL
 ftbutilities.claims.item.naturesaura.calling_spirit: ALL
 ftbutilities.claims.item.naturesaura.cave_finder: ALL
+ftbutilities.claims.item.naturesaura.chunk_loader: ALL
 ftbutilities.claims.item.naturesaura.clock_hand: ALL
 ftbutilities.claims.item.naturesaura.color_changer: ALL
 ftbutilities.claims.item.naturesaura.conversion_catalyst: ALL
 ftbutilities.claims.item.naturesaura.crushing_catalyst: ALL
 ftbutilities.claims.item.naturesaura.decayed_leaves: ALL
+ftbutilities.claims.item.naturesaura.dimension_rail_end: ALL
+ftbutilities.claims.item.naturesaura.dimension_rail_nether: ALL
+ftbutilities.claims.item.naturesaura.dimension_rail_overworld: ALL
 ftbutilities.claims.item.naturesaura.effect_powder: ALL
 ftbutilities.claims.item.naturesaura.end_flower: ALL
 ftbutilities.claims.item.naturesaura.ender_access: ALL
@@ -31142,6 +30951,7 @@ ftbutilities.claims.item.naturesaura.pickup_stopper: ALL
 ftbutilities.claims.item.naturesaura.placer: ALL
 ftbutilities.claims.item.naturesaura.potion_generator: ALL
 ftbutilities.claims.item.naturesaura.powder_placer: ALL
+ftbutilities.claims.item.naturesaura.projectile_generator: ALL
 ftbutilities.claims.item.naturesaura.range_visualizer: ALL
 ftbutilities.claims.item.naturesaura.rf_converter: ALL
 ftbutilities.claims.item.naturesaura.shockwave_creator: ALL
@@ -31365,7 +31175,6 @@ ftbutilities.claims.item.nuclearcraft.fluid_calcium_sulfate_solution: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_carbon_dioxide: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_carbon_monoxide: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_chocolate_liquor: ALL
-ftbutilities.claims.item.nuclearcraft.fluid_coal: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_cocoa_butter: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_condensate_water: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_corium: ALL
@@ -31420,7 +31229,6 @@ ftbutilities.claims.item.nuclearcraft.fluid_silver: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sodium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sodium_fluoride_solution: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sodium_hydroxide_solution: ALL
-ftbutilities.claims.item.nuclearcraft.fluid_steam: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sugar: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sulfur: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_sulfur_dioxide: ALL
@@ -31429,6 +31237,7 @@ ftbutilities.claims.item.nuclearcraft.fluid_sulfuric_acid: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_tough: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_tritium: ALL
 ftbutilities.claims.item.nuclearcraft.fluid_unsweetened_chocolate: ALL
+ftbutilities.claims.item.nuclearcraft.foursmore: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_americium: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_berkelium: ALL
 ftbutilities.claims.item.nuclearcraft.fuel_californium: ALL
@@ -31457,6 +31266,7 @@ ftbutilities.claims.item.nuclearcraft.gem_dust: ALL
 ftbutilities.claims.item.nuclearcraft.glowing_mushroom: ALL
 ftbutilities.claims.item.nuclearcraft.graham_cracker: ALL
 ftbutilities.claims.item.nuclearcraft.ground_cocoa_nibs: ALL
+ftbutilities.claims.item.nuclearcraft.heat_exchanger_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_controller: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_frame: ALL
 ftbutilities.claims.item.nuclearcraft.heat_exchanger_glass: ALL
@@ -31526,6 +31336,7 @@ ftbutilities.claims.item.nuclearcraft.pressurizer_idle: ALL
 ftbutilities.claims.item.nuclearcraft.rad_shielding: ALL
 ftbutilities.claims.item.nuclearcraft.rad_x: ALL
 ftbutilities.claims.item.nuclearcraft.radaway: ALL
+ftbutilities.claims.item.nuclearcraft.radiation_badge: ALL
 ftbutilities.claims.item.nuclearcraft.radiation_scrubber: ALL
 ftbutilities.claims.item.nuclearcraft.reactor_casing_transparent: ALL
 ftbutilities.claims.item.nuclearcraft.reactor_door: ALL
@@ -31543,6 +31354,7 @@ ftbutilities.claims.item.nuclearcraft.rtg_californium: ALL
 ftbutilities.claims.item.nuclearcraft.rtg_plutonium: ALL
 ftbutilities.claims.item.nuclearcraft.rtg_uranium: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_beam: ALL
+ftbutilities.claims.item.nuclearcraft.salt_fission_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_controller: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_distributor: ALL
 ftbutilities.claims.item.nuclearcraft.salt_fission_frame: ALL
@@ -31577,6 +31389,7 @@ ftbutilities.claims.item.nuclearcraft.sword_hard_carbon: ALL
 ftbutilities.claims.item.nuclearcraft.sword_tough: ALL
 ftbutilities.claims.item.nuclearcraft.thorium: ALL
 ftbutilities.claims.item.nuclearcraft.tiny_dust_lead: ALL
+ftbutilities.claims.item.nuclearcraft.turbine_computer_port: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_controller: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_dynamo_coil: ALL
 ftbutilities.claims.item.nuclearcraft.turbine_frame: ALL
@@ -31881,12 +31694,13 @@ ftbutilities.claims.item.planetprogression.satellite_controller: ALL
 ftbutilities.claims.item.planetprogression.satellite_module_basic: ALL
 ftbutilities.claims.item.planetprogression.telescope: ALL
 ftbutilities.claims.item.planetprogression.telescope_fake_block: ALL
-ftbutilities.claims.item.platforms.platform: ALL
-ftbutilities.claims.item.platforms.wrench: ALL
 ftbutilities.claims.item.plustic.alumiteblock: ALL
 ftbutilities.claims.item.plustic.alumiteingot: ALL
 ftbutilities.claims.item.plustic.alumitenugget: ALL
 ftbutilities.claims.item.plustic.battery_cell: ALL
+ftbutilities.claims.item.plustic.invarblock: ALL
+ftbutilities.claims.item.plustic.invaringot: ALL
+ftbutilities.claims.item.plustic.invarnugget: ALL
 ftbutilities.claims.item.plustic.katana: ALL
 ftbutilities.claims.item.plustic.laser_gun: ALL
 ftbutilities.claims.item.plustic.laser_medium: ALL
@@ -31908,9 +31722,11 @@ ftbutilities.claims.item.plustic.plustic.molten_manasteel: ALL
 ftbutilities.claims.item.plustic.plustic.molten_mirion: ALL
 ftbutilities.claims.item.plustic.plustic.molten_osgloglas: ALL
 ftbutilities.claims.item.plustic.plustic.molten_osmiridium: ALL
+ftbutilities.claims.item.plustic.plustic.molten_osmium: ALL
 ftbutilities.claims.item.plustic.plustic.molten_refinedglowstone: ALL
 ftbutilities.claims.item.plustic.plustic.molten_refinedobsidian: ALL
 ftbutilities.claims.item.plustic.plustic.molten_terrasteel: ALL
+ftbutilities.claims.item.plustic.plustic.molten_titanium: ALL
 ftbutilities.claims.item.pneumaticcraft.advanced_air_compressor: ALL
 ftbutilities.claims.item.pneumaticcraft.advanced_liquid_compressor: ALL
 ftbutilities.claims.item.pneumaticcraft.advanced_pcb: ALL
@@ -31940,6 +31756,7 @@ ftbutilities.claims.item.pneumaticcraft.compressed_iron_block: ALL
 ftbutilities.claims.item.pneumaticcraft.compressed_iron_gear: ALL
 ftbutilities.claims.item.pneumaticcraft.coordinate_tracker_upgrade: ALL
 ftbutilities.claims.item.pneumaticcraft.creative_compressor: ALL
+ftbutilities.claims.item.pneumaticcraft.creative_upgrade: ALL
 ftbutilities.claims.item.pneumaticcraft.crop_support: ALL
 ftbutilities.claims.item.pneumaticcraft.dispenser_upgrade: ALL
 ftbutilities.claims.item.pneumaticcraft.drone: ALL
@@ -32044,20 +31861,6 @@ ftbutilities.claims.item.pneumaticcraft.vacuum_pump: ALL
 ftbutilities.claims.item.pneumaticcraft.volume_upgrade: ALL
 ftbutilities.claims.item.pneumaticcraft.vortex_cannon: ALL
 ftbutilities.claims.item.pneumaticcraft.vortex_tube: ALL
-ftbutilities.claims.item.portality.controller: ALL
-ftbutilities.claims.item.portality.frame: ALL
-ftbutilities.claims.item.portality.module_energy: ALL
-ftbutilities.claims.item.portality.module_fluids: ALL
-ftbutilities.claims.item.portality.module_interdimensional: ALL
-ftbutilities.claims.item.portality.module_items: ALL
-ftbutilities.claims.item.powersuits.luxcapacitor: ALL
-ftbutilities.claims.item.powersuits.power_fist: ALL
-ftbutilities.claims.item.powersuits.powerarmor_feet: ALL
-ftbutilities.claims.item.powersuits.powerarmor_head: ALL
-ftbutilities.claims.item.powersuits.powerarmor_legs: ALL
-ftbutilities.claims.item.powersuits.powerarmor_torso: ALL
-ftbutilities.claims.item.powersuits.powerarmorcomponent: ALL
-ftbutilities.claims.item.powersuits.tinkertable: ALL
 ftbutilities.claims.item.practicallogistics2.advancedholographicdisplay: ALL
 ftbutilities.claims.item.practicallogistics2.array: ALL
 ftbutilities.claims.item.practicallogistics2.clock: ALL
@@ -33612,8 +33415,6 @@ ftbutilities.claims.item.redstonearsenal.tool.sickle_flux: ALL
 ftbutilities.claims.item.redstonearsenal.tool.sword_flux: ALL
 ftbutilities.claims.item.redstonearsenal.tool.wrench_flux: ALL
 ftbutilities.claims.item.redstonearsenal.util.quiver_flux: ALL
-ftbutilities.claims.item.refined_avaritia.extreme_pattern: ALL
-ftbutilities.claims.item.refined_avaritia.extreme_pattern_encoder: ALL
 ftbutilities.claims.item.refinedstorage.cable: ALL
 ftbutilities.claims.item.refinedstorage.constructor: ALL
 ftbutilities.claims.item.refinedstorage.controller: ALL
@@ -33668,11 +33469,6 @@ ftbutilities.claims.item.refinedstorage.writer: ALL
 ftbutilities.claims.item.refinedstorageaddons.wireless_crafting_grid: ALL
 ftbutilities.claims.item.refinedstoragerequestify.requester: ALL
 ftbutilities.claims.item.rf-capability-adapter.aecapabilityadapter: ALL
-ftbutilities.claims.item.rflux.flatlightblock_off: ALL
-ftbutilities.claims.item.rflux.flatlightblock_on: ALL
-ftbutilities.claims.item.rflux.invisible_block: ALL
-ftbutilities.claims.item.rflux.lightblock_off: ALL
-ftbutilities.claims.item.rflux.lightblock_on: ALL
 ftbutilities.claims.item.rftools.advanced_charged_porter: ALL
 ftbutilities.claims.item.rftools.analog_block: ALL
 ftbutilities.claims.item.rftools.blindness_module: ALL
@@ -33885,12 +33681,15 @@ ftbutilities.claims.item.rftoolspower.power_core3: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_blocks_deco: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_blocks_gems: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_blocks_tech: ALL
+ftbutilities.claims.item.rockhounding_chemistry.alloy_blocks_tech_b: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_bricks_deco: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_bricks_gems: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_bricks_tech: ALL
+ftbutilities.claims.item.rockhounding_chemistry.alloy_bricks_tech_b: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_items_deco: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_items_gems: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_items_tech: ALL
+ftbutilities.claims.item.rockhounding_chemistry.alloy_items_tech_b: ALL
 ftbutilities.claims.item.rockhounding_chemistry.alloy_parts: ALL
 ftbutilities.claims.item.rockhounding_chemistry.antimonate_shards: ALL
 ftbutilities.claims.item.rockhounding_chemistry.arsenate_shards: ALL
@@ -33904,9 +33703,11 @@ ftbutilities.claims.item.rockhounding_chemistry.co_catalyst: ALL
 ftbutilities.claims.item.rockhounding_chemistry.crushing_gear: ALL
 ftbutilities.claims.item.rockhounding_chemistry.didymium_glass: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fe_catalyst: ALL
+ftbutilities.claims.item.rockhounding_chemistry.filter_items: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.acrylic_acid: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.chloromethane: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.coal_slurry: ALL
+ftbutilities.claims.item.rockhounding_chemistry.fluid.coal_tar: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.compressed_air: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.cooled_air: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.dense_brine: ALL
@@ -33915,6 +33716,7 @@ ftbutilities.claims.item.rockhounding_chemistry.fluid.hydrochloric_acid: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.krypton: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.leachate: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.liquid_ammonia: ALL
+ftbutilities.claims.item.rockhounding_chemistry.fluid.liquid_nitrogen: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.liquid_oxygen: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_bam: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_corten: ALL
@@ -33923,6 +33725,8 @@ ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_cunife: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_cupronickel: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_hastelloy: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_hydronalium: ALL
+ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_inconel: ALL
+ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_nial: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_nichrome: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_nimonic: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_pewter: ALL
@@ -33932,6 +33736,7 @@ ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_tantaloy: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_titanium: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_vanadium: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_vanasteel: ALL
+ftbutilities.claims.item.rockhounding_chemistry.fluid.molten_zircaloy: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.mother_liquor: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.neon: ALL
 ftbutilities.claims.item.rockhounding_chemistry.fluid.nitric_acid: ALL
@@ -33954,6 +33759,7 @@ ftbutilities.claims.item.rockhounding_chemistry.gasline_pump: ALL
 ftbutilities.claims.item.rockhounding_chemistry.gr_catalyst: ALL
 ftbutilities.claims.item.rockhounding_chemistry.graduated_cylinder: ALL
 ftbutilities.claims.item.rockhounding_chemistry.halide_shards: ALL
+ftbutilities.claims.item.rockhounding_chemistry.in_catalyst: ALL
 ftbutilities.claims.item.rockhounding_chemistry.ingot_pattern: ALL
 ftbutilities.claims.item.rockhounding_chemistry.machines_a: ALL
 ftbutilities.claims.item.rockhounding_chemistry.machines_b: ALL
@@ -35458,12 +35264,7 @@ ftbutilities.claims.item.tinker_io.speedupg: ALL
 ftbutilities.claims.item.tinker_io.stirling_engine: ALL
 ftbutilities.claims.item.tinker_io.upg: ALL
 ftbutilities.claims.item.tinker_io.what_a_beautiful_block: ALL
-ftbutilities.claims.item.tombstone.advancement_001: ALL
-ftbutilities.claims.item.tombstone.advancement_002: ALL
-ftbutilities.claims.item.tombstone.advancement_003: ALL
-ftbutilities.claims.item.tombstone.advancement_004: ALL
-ftbutilities.claims.item.tombstone.advancement_005: ALL
-ftbutilities.claims.item.tombstone.advancement_006: ALL
+ftbutilities.claims.item.tombstone.advancement: ALL
 ftbutilities.claims.item.tombstone.ankh_of_pray: ALL
 ftbutilities.claims.item.tombstone.book_of_disenchantment: ALL
 ftbutilities.claims.item.tombstone.dark_marble: ALL
@@ -35472,7 +35273,6 @@ ftbutilities.claims.item.tombstone.decorative_grave_normal: ALL
 ftbutilities.claims.item.tombstone.decorative_grave_simple: ALL
 ftbutilities.claims.item.tombstone.decorative_tombstone: ALL
 ftbutilities.claims.item.tombstone.dust_of_vanishing: ALL
-ftbutilities.claims.item.tombstone.fake_fog: ALL
 ftbutilities.claims.item.tombstone.fishing_rod_of_misadventure: ALL
 ftbutilities.claims.item.tombstone.grave_dust: ALL
 ftbutilities.claims.item.tombstone.grave_key: ALL
@@ -35480,7 +35280,6 @@ ftbutilities.claims.item.tombstone.lollypop: ALL
 ftbutilities.claims.item.tombstone.lost_tablet: ALL
 ftbutilities.claims.item.tombstone.scroll_buff: ALL
 ftbutilities.claims.item.tombstone.scroll_of_knowledge: ALL
-ftbutilities.claims.item.tombstone.soul: ALL
 ftbutilities.claims.item.tombstone.soul_receptacle: ALL
 ftbutilities.claims.item.tombstone.strange_scroll: ALL
 ftbutilities.claims.item.tombstone.strange_tablet: ALL
@@ -36182,6 +35981,7 @@ ftbutilities.claims.item.yabba.upgrade_redstone_out: ALL
 ftbutilities.claims.item.yabba.upgrade_star_tier: ALL
 ftbutilities.claims.item.yabba.upgrade_void: ALL
 ftbutilities.claims.item.yabba.wrench: ALL
+ftbutilities.claims.item.zensummoning.altar: ALL
 ftbutilities.claims.item.zerocore.debugtool: ALL
 ftbutilities.claims.item.zettaindustries.batterycomputerport: ALL
 ftbutilities.claims.item.zettaindustries.batterycontroller: ALL
@@ -36322,7 +36122,6 @@ command.defaultgamemode
 command.difficulty
 command.draconicevolution.de_reload_custom_fusion
 command.draconicevolution.de_upgrade
-command.efab.efab_savedefaults
 command.effect
 command.enchant
 command.endercore.scoreboardinfo
@@ -36353,6 +36152,12 @@ command.forge.track.help.te
 command.forge.track.reset
 command.forge.track.start
 command.forge.track.te
+command.ftbbackups.backup.help.size
+command.ftbbackups.backup.help.start
+command.ftbbackups.backup.help.time
+command.ftbbackups.backup.size
+command.ftbbackups.backup.start
+command.ftbbackups.backup.time
 command.ftblib.my_settings
 command.ftblib.reload
 command.ftblib.team.create
@@ -36368,6 +36173,7 @@ command.ftblib.team.status
 command.ftblib.team.transfer_ownership
 command.ftbmoney.import_shop_items_from_chest
 command.ftbmoney.money
+command.ftbmoney.pay
 command.ftbmoney.setmoney
 command.ftbquests.ftbquests.change_consumable
 command.ftbquests.ftbquests.change_progress
@@ -36470,7 +36276,7 @@ command.incontrol.ctrlloadsummonaid
 command.incontrol.ctrlreload
 command.incontrol.ctrlshowmobs
 command.industrialwires.iw
-command.jeresources.profile
+command.jeresources.jer_profile
 command.journeymap.jtp
 command.justenoughdimensions.jed
 command.justenoughdimensions.tpj
@@ -36483,6 +36289,7 @@ command.modularmachinery.mm-syntax
 command.morpheus.morpheus
 command.naturesaura.naaura
 command.nmsot.nmsot
+command.nuclearcraft.nc_set_chunk_radiation
 command.ocsensors.ocsensors
 command.omlib.omchangeowner
 command.omlib.omdebug
@@ -36513,6 +36320,7 @@ command.planetprogression.unlockallcelestialbodies
 command.planetprogression.unlockcelestialbody
 command.playsound
 command.pneumaticcraft.deliveramazon
+command.pneumaticcraft.dumpnbt
 command.pneumaticcraft.getglobalvariable
 command.pneumaticcraft.setglobalvariable
 command.practicallogistics2./logistics resetregistry

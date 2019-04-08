@@ -4,6 +4,7 @@
 #Imports
 
 import crafttweaker.item.IItemStack;
+import crafttweaker.item.IItemTransformer;
 
 var immcraftToHide = [
     <immcraft:dummybook>,
@@ -32,3 +33,6 @@ var immcraftRemoveAndHide = [
 for item in immcraftRemoveAndHide {
     mods.jei.JEI.removeAndHide(item);
 }
+
+#Rock
+recipes.addShapeless("immRock",<immcraft:rock> * 2, [<ore:artisansSifter>.transformDamage(3), <ore:dirt>]);
