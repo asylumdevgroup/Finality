@@ -2410,6 +2410,17 @@ false
 <p>AFK Timer</p>
 </td></tr>
 <tr>
+<td><code>ftbutilities.back.back</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last time where /back is used</p>
+</td></tr>
+<tr>
 <td><code>ftbutilities.back.cooldown</code></td>
 <td><code>timer</code></td>
 <td class='other'><code>3m</code></td>
@@ -2418,6 +2429,17 @@ false
 0s to &infin; 
 '>
 <p>/back Cooldown Timer</p>
+</td></tr>
+<tr>
+<td><code>ftbutilities.back.home</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last time where /home is used</p>
 </td></tr>
 <tr>
 <td><code>ftbutilities.back.infinite</code></td>
@@ -2430,6 +2452,49 @@ false
 <p>Allow to use 'back' command infinite times</p>
 </td></tr>
 <tr>
+<td><code>ftbutilities.back.respawn</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last death point</p>
+</td></tr>
+<tr>
+<td><code>ftbutilities.back.rtp</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last time where /rtp is used</p>
+</td></tr>
+<tr>
+<td><code>ftbutilities.back.spawn</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last time where /spawn is used</p>
+</td></tr>
+<tr>
+<td><code>ftbutilities.back.tpa</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last time where /tpa is used</p>
+</td></tr>
+<tr>
 <td><code>ftbutilities.back.warmup</code></td>
 <td><code>timer</code></td>
 <td class='other'><code>5s</code></td>
@@ -2440,12 +2505,33 @@ false
 <p>/back Warmup Timer</p>
 </td></tr>
 <tr>
+<td><code>ftbutilities.back.warp</code></td>
+<td><code>bool</code></td>
+<td class='false'><code>false</code></td>
+<td class='true'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allow player back to last time where /warp is used</p>
+</td></tr>
+<tr>
 <td><code>ftbutilities.badge</code></td>
 <td><code>string</code></td>
 <td class='other' colspan='2'><code>""</code></td>
 <td title='
 '>
 <p>Badge</p>
+</td></tr>
+<tr>
+<td><code>ftbutilities.chat.formatting</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+<p>Allows to use **bold**, *italic* and ~~striketrough~~ in chat</p>
 </td></tr>
 <tr>
 <td><code>ftbutilities.chat.name_format</code></td>
@@ -4011,7 +4097,7 @@ false
 <tr><td><code>command.bloodmagic.bloodmagic.network.help.get</code></td><td>/bloodmagic network get [player]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.network.help.set</code></td><td>/bloodmagic network set [player] [amount]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.network.help.syphon</code></td><td>/bloodmagic network syphon [player] [amount]</td></tr>
-<tr><td><code>command.bloodmagic.bloodmagic.network.help.tickethistory</code></td><td>commands.bloodmagic.network.tickethistory.usage</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.tickethistory</code></td><td>/bloodmagic network tickethistory [player]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.orb.help.get</code></td><td>/bloodmagic orb get [player|?|help]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.orb.help.set</code></td><td>/bloodmagic orb set [player|?|help]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.ritual.help.create</code></td><td>Creates the specified ritual with the MRS at your feet, ignores other blocks by default. (Optional parameters: ([&lt;player&gt; (safe|true|false)] | [safe|true|false]))</td></tr>
@@ -4035,12 +4121,8 @@ false
 <tr><td><code>command.cofhworld.cofhworld.reload</code></td><td>Reloads CoFHWorld configuration</td></tr>
 <tr><td><code>command.cofhworld.cofhworld.version</code></td><td>cofhworld.version.usage</td></tr>
 <tr><td><code>command.compactmachines3.compactmachines3</code></td><td>/compactmachines3 [subcommand, leave empty for list of commands]</td></tr>
-<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | give | hand | help | inventory | jeiCategories | json | liquids | log | loottables | materialparts | materials | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | ticmat | wiki | zslint</td></tr>
+<tr><td><code>command.crafttweaker.crafttweaker</code></td><td class='error' title='Invalid usage language key!'>/crafttweaker biomeTypes | biomes | blockinfo | blockmaterial | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | creativetab | discord | docs | dumpzs | enchants | entities | foods | gases | give | hand | help | infuseTypes | inventory | jeiCategories | json | liquids | log | loottables | materialparts | materials | mekrecipes | mods | names | nbt | oredict | parts | parttypes | potions | recipeNames | recipes | reload | scripts | seeds | soundevent | soundtype | syntax | ticmat | wiki | zslint</td></tr>
 <tr><td><code>command.crafttweaker.ctgui</code></td><td class='error' title='Invalid usage language key!'>CTGUI &lt;id&gt;</td></tr>
-<tr><td><code>command.crossroads.discoverelement</code></td><td class='error' title='Invalid usage language key!'>/discoverElement &lt;element<br>all&gt;</td></tr>
-<tr><td><code>command.crossroads.resetpath</code></td><td class='error' title='Invalid usage language key!'>/resetPath [player]</td></tr>
-<tr><td><code>command.crossroads.spawnreagent</code></td><td class='error' title='Invalid usage language key!'>/spawnReagent &lt;id&gt; &lt;temp(C)&gt;</td></tr>
-<tr><td><code>command.crossroads.tpworkspacedim</code></td><td class='error' title='Invalid usage language key!'>/tpWorkspaceDim</td></tr>
 <tr><td><code>command.cyclicmagic.enderchest</code></td><td class='error' title='Invalid usage language key!'>/enderchest</td></tr>
 <tr><td><code>command.cyclicmagic.gethome</code></td><td class='error' title='Invalid usage language key!'>/gethome</td></tr>
 <tr><td><code>command.cyclicmagic.nbtprint</code></td><td class='error' title='Invalid usage language key!'>/nbtprint</td></tr>
@@ -4068,6 +4150,7 @@ false
 <tr><td><code>command.difficulty</code></td><td>/difficulty &lt;new difficulty&gt;</td></tr>
 <tr><td><code>command.draconicevolution.de_reload_custom_fusion</code></td><td class='error' title='Invalid usage language key!'>Usage: /de_reload_custom_fusion</td></tr>
 <tr><td><code>command.draconicevolution.de_upgrade</code></td><td class='error' title='Invalid usage language key!'>/de_upgrade</td></tr>
+<tr><td><code>command.dropt.dropt</code></td><td class='error' title='Invalid usage language key!'>dropt &lt;reload&gt;</td></tr>
 <tr><td><code>command.effect</code></td><td>/effect &lt;player&gt; &lt;effect&gt; [seconds] [amplifier] [hideParticles]<br>/effect &lt;player&gt; clear</td></tr>
 <tr><td><code>command.enchant</code></td><td>/enchant &lt;player&gt; &lt;enchantment ID&gt; [level]</td></tr>
 <tr><td><code>command.endercore.scoreboardinfo</code></td><td class='error' title='Invalid usage language key!'>/scoreboardinfo &lt;board&gt; &lt;name&gt;</td></tr>
@@ -4229,7 +4312,16 @@ false
 <tr><td><code>command.kill</code></td><td>/kill [player|entity]</td></tr>
 <tr><td><code>command.locate</code></td><td>/locate &lt;feature&gt;</td></tr>
 <tr><td><code>command.me</code></td><td>/me &lt;action ...&gt;</td></tr>
-<tr><td><code>command.mekanism.mk</code></td><td class='error' title='Invalid usage language key!'>/mk &lt;parameters&gt;</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.clear</code></td><td>Remove all chunks from watch list for chunk loading/unloading events</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.flush</code></td><td>cmd.mek.chunk.flush.usage</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.unwatch</code></td><td>Remove caller's chunk from watch list for chunk loading/unloading events</td></tr>
+<tr><td><code>command.mekanism.mek.chunk.watch</code></td><td>Add caller's chunk to watch list for loading/unloading events</td></tr>
+<tr><td><code>command.mekanism.mek.debug</code></td><td></td></tr>
+<tr><td><code>command.mekanism.mek.testrules</code></td><td>Setup world rules for testing (no mob spawning, daylight cycle or weather)</td></tr>
+<tr><td><code>command.mekanism.mek.tp</code></td><td>Teleport to new coordinates, saving last position on a stack</td></tr>
+<tr><td><code>command.mekanism.mek.tpop</code></td><td>Return to last position on stack</td></tr>
+<tr><td><code>command.mekanism.mtp</code></td><td>Teleport to new coordinates, saving last position on a stack</td></tr>
+<tr><td><code>command.mekanism.mtpop</code></td><td>Return to last position on stack</td></tr>
 <tr><td><code>command.modularmachinery.mm-hand</code></td><td>/mm-hand</td></tr>
 <tr><td><code>command.modularmachinery.mm-syntax</code></td><td>/mm-syntax</td></tr>
 <tr><td><code>command.morpheus.morpheus</code></td><td class='error' title='Invalid usage language key!'>/morpheus &lt;alert : version&gt; | /morpheus percent &lt;percentage&gt; | /morpheus disable &lt;dimension number&gt;</td></tr>
@@ -4237,9 +4329,6 @@ false
 <tr><td><code>command.nmsot.nmsot</code></td><td class='error' title='Invalid usage language key!'>/nmsot &lt;help|reload&gt;</td></tr>
 <tr><td><code>command.nuclearcraft.nc_set_chunk_radiation</code></td><td>/nc_set_chunk_radiation &lt;radiation_level&gt; [coord_x] [coord_z]</td></tr>
 <tr><td><code>command.ocsensors.ocsensors</code></td><td>commands.ocsensors.usage</td></tr>
-<tr><td><code>command.omlib.omchangeowner</code></td><td class='error' title='Invalid usage language key!'>&lt;dimension&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;new owner&gt;</td></tr>
-<tr><td><code>command.omlib.omdebug</code></td><td class='error' title='Invalid usage language key!'>/omdebug &lt;on|off&gt;</td></tr>
-<tr><td><code>command.omlib.omshareowner</code></td><td class='error' title='Invalid usage language key!'>'&lt;add|del&gt; &lt;name to share&gt;' or list</td></tr>
 <tr><td><code>command.openblocks.flimflam</code></td><td class='error' title='Invalid usage language key!'>flimflam &lt;player&gt; [&lt;effect&gt;]</td></tr>
 <tr><td><code>command.openblocks.luck</code></td><td class='error' title='Invalid usage language key!'>luck &lt;player&gt; [&lt;amount&gt;]</td></tr>
 <tr><td><code>command.openblocks.ob_inventory</code></td><td class='error' title='Invalid usage language key!'>ob_inventory store &lt;player&gt;<br>ob_inventory restore &lt;player&gt; &lt;file without 'inventory-' and '.dat'&gt;<br>ob_inventory spawn &lt;file without 'inventory-' and '.dat'&gt; [&lt;sub_inventory<br>'main'&gt;,  [&lt;index of item&gt;]]</td></tr>
@@ -4287,7 +4376,7 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.projecte.projecte.setemc</code></td><td>/projecte setEMC [unlocalized | oredict name] [meta] [EMC value], /projecte setEMC [EMC value] (for held item)</td></tr>
 <tr><td><code>command.projecte.projecte.showbag</code></td><td>/projecte showBag &lt;color&gt; &lt;player selector&gt;</td></tr>
 <tr><td><code>command.publish</code></td><td>/publish</td></tr>
-<tr><td><code>command.quark.quarkconfig</code></td><td class='error' title='Invalid usage language key!'>&lt;module&gt; &lt;category&gt; &lt;key&gt; &lt;value&gt; [save?] [player]</td></tr>
+<tr><td><code>command.quark.quarkconfig</code></td><td>/quarkconfig &lt;module&gt; &lt;category&gt; &lt;key&gt; &lt;value&gt; [save?] [player]</td></tr>
 <tr><td><code>command.randomportals.rporeload</code></td><td>/rporeload</td></tr>
 <tr><td><code>command.randomthings.rt</code></td><td class='error' title='Invalid usage language key!'>/rt</td></tr>
 <tr><td><code>command.randomtweaks.deletegamerule</code></td><td class='error' title='Invalid usage language key!'>/deletegamerule &lt;gamerule&gt;</td></tr>
@@ -4307,6 +4396,7 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.rftoolsdim.rftdim</code></td><td class='error' title='Invalid usage language key!'>rftdim &lt;subcommand&gt; &lt;args&gt; (try 'rftdim help' for more info)</td></tr>
 <tr><td><code>command.rpreload</code></td><td class='error' title='Invalid usage language key!'>/rpreload</td></tr>
 <tr><td><code>command.say</code></td><td>/say &lt;message ...&gt;</td></tr>
+<tr><td><code>command.scavenge.scavenge</code></td><td class='error' title='Invalid usage language key!'>/scavenge Allows to reload the files</td></tr>
 <tr><td><code>command.scoreboard</code></td><td>/scoreboard &lt;objectives|players|teams&gt; ...</td></tr>
 <tr><td><code>command.seed</code></td><td>/seed</td></tr>
 <tr><td><code>command.setblock</code></td><td>/setblock &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; [dataValue|state] [oldBlockHandling] [dataTag]</td></tr>
@@ -4335,12 +4425,14 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.title</code></td><td>/title &lt;player&gt; title|subtitle|actionbar|clear|reset|times ...</td></tr>
 <tr><td><code>command.toggledownfall</code></td><td>/toggledownfall</td></tr>
 <tr><td><code>command.tombstone.tbknowledge</code></td><td>Sets the knowledge of death of a player
-/tbknowledge [player] &lt;value&gt;</td></tr>
+/tbknowledge &lt;player&gt; &lt;show|set|give|remove&gt; &lt;value&gt;</td></tr>
 <tr><td><code>command.tombstone.tbrecovery</code></td><td>Backups and restores players
 /tbrecovery &lt;save_all_players|save_player &lt;player&gt;|load_player&lt;player&gt; &lt;save&gt;&gt;</td></tr>
 <tr><td><code>command.tombstone.tbrequestteleport</code></td><td>tombstone.command.tbrequestteleport.usage</td></tr>
 <tr><td><code>command.tombstone.tbrestoreinventory</code></td><td>Restores the player inventory with the last known grave
 /tbrestoreinventory [player]</td></tr>
+<tr><td><code>command.tombstone.tbrevivefamiliar</code></td><td>Revives the last dead familiar of a player
+/tbrevivefamiliar &lt;player&gt;</td></tr>
 <tr><td><code>command.tombstone.tbshowlastgrave</code></td><td>Shows the position of the last known grave of a player
 /tbshowlastgrave [player]</td></tr>
 <tr><td><code>command.tombstone.tbsiege</code></td><td>Launches a village siege in the chosen dimension or your current one
@@ -4360,6 +4452,9 @@ om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;...
 <tr><td><code>command.traverse.findbiome</code></td><td class='error' title='Invalid usage language key!'>/findbiome &lt;biome&gt;</td></tr>
 <tr><td><code>command.trigger</code></td><td>/trigger &lt;objective&gt; &lt;add|set&gt; &lt;value&gt;</td></tr>
 <tr><td><code>command.valkyrielib.removeowner</code></td><td>valkyrielib.removeowner</td></tr>
+<tr><td><code>command.voidislandcontrol.island</code></td><td>island</td></tr>
+<tr><td><code>command.voidislandcontrol.islandadmin</code></td><td>island</td></tr>
+<tr><td><code>command.voidislandcontrol.startinginv</code></td><td class='error' title='Invalid usage language key!'></td></tr>
 <tr><td><code>command.waterstrainer.waterstrainerreload</code></td><td class='error' title='Invalid usage language key!'>/waterstrainerreload</td></tr>
 <tr><td><code>command.weather</code></td><td>/weather &lt;clear|rain|thunder&gt; [duration in seconds]</td></tr>
 <tr><td><code>command.wirelessutils.wu_debug</code></td><td>wu_debug</td></tr>
