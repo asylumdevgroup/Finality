@@ -1,4 +1,4 @@
-35748 nodes in total
+35749 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -26070,6 +26070,7 @@ ftbutilities.claims.item.harvestcraft.pistachioicecreamitem: ALL
 ftbutilities.claims.item.harvestcraft.pistachioitem: ALL
 ftbutilities.claims.item.harvestcraft.pitepaltitem: ALL
 ftbutilities.claims.item.harvestcraft.pizzaitem: ALL
+ftbutilities.claims.item.harvestcraft.pizzasliceitem: ALL
 ftbutilities.claims.item.harvestcraft.pizzasoupitem: ALL
 ftbutilities.claims.item.harvestcraft.plainyogurtitem: ALL
 ftbutilities.claims.item.harvestcraft.ploughmanslunchitem: ALL
